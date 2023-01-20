@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="JAVA QUESTION">
-      <change afterPath="$PROJECT_DIR$/src/Array_list/Basics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GFG/Repetitive_Addition_Of_Digits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LEETCODE/Add_two_numbers_represented_by_two_arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LEETCODE/Container_With_Most_Water_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LEETCODE/Length_of_Last_Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LEETCODE/Spiral_Matrix_54.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Repetitive_Addition_Of_Digits">
+  <component name="RunManager" selected="Application.Spiral_Matrix_54">
     <configuration name="Add_two_numbers_represented_by_two_arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LEETCODE.Add_two_numbers_represented_by_two_arrays" />
       <module name="JAVA_QUESTIONS" />
@@ -58,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array_list.Basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_list.Basics" />
+    <configuration name="Container_With_Most_Water_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LEETCODE.Container_With_Most_Water_11" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array_list.*" />
+          <option name="PATTERN" value="LEETCODE.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Container_With_Most_Water_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LEETCODE.Container_With_Most_Water_11" />
+    <configuration name="Length_of_Last_Word" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LEETCODE.Length_of_Last_Word" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
@@ -97,9 +95,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Third_Maximum_Number_414" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Third_Maximum_Number_414" />
+    <configuration name="Spiral_Matrix_54" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LEETCODE.Spiral_Matrix_54" />
       <module name="JAVA_QUESTIONS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LEETCODE.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -129,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Spiral_Matrix_54" />
+        <item itemvalue="Application.Length_of_Last_Word" />
         <item itemvalue="Application.Repetitive_Addition_Of_Digits" />
         <item itemvalue="Application.Add_two_numbers_represented_by_two_arrays" />
         <item itemvalue="Application.Container_With_Most_Water_11" />
-        <item itemvalue="Application.Array_list.Basics" />
-        <item itemvalue="Application.Third_Maximum_Number_414" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673952785775</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="JAVA QUESTION">
+      <created>1674124928669</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674124928669</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
