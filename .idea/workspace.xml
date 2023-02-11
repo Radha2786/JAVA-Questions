@@ -5,10 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="JAVA QUESTION">
-      <change afterPath="$PROJECT_DIR$/src/LEETCODE/gfg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sliding_window/Kartik_Bhaiya_And_Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sliding_window/Max_Sum_subarray_of_size_k.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/A_to_the_power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/A_to_the_power_b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Coubt_number_of_n_int_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Factorial_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Generate_Parentheses_22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Pallindrome_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Print_till_digit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Remove_char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Reverse_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Reverse_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Stack_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/SubSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Sum_of_digits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Sum_till_n.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Sum_triangle_from_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/count_the_occurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/infixtopostfix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sliding_window/Kartik_Bhaiya_And_Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sliding_window/Kartik_Bhaiya_And_Strings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +63,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Max_Sum_subarray_of_size_k">
-    <configuration name="Length_of_Last_Word" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LEETCODE.Length_of_Last_Word" />
+  <component name="RunManager" selected="Application.Sum_triangle_from_array">
+    <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Permutations" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LEETCODE.*" />
+          <option name="PATTERN" value="Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Max_Sum_subarray_of_size_k" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sliding_window.Max_Sum_subarray_of_size_k" />
+    <configuration name="Remove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Remove" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sliding_window.*" />
+          <option name="PATTERN" value="Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pair_with_largest_sum_which_is_less_than_K" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LEETCODE.Pair_with_largest_sum_which_is_less_than_K" />
+    <configuration name="Remove_a_from_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Remove_a_from_string" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LEETCODE.*" />
+          <option name="PATTERN" value="Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Spiral_Matrix_54" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LEETCODE.Spiral_Matrix_54" />
+    <configuration name="SubSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.SubSequence" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LEETCODE.*" />
+          <option name="PATTERN" value="Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gfg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LEETCODE.gfg" />
+    <configuration name="Sum_triangle_from_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Sum_triangle_from_array" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LEETCODE.*" />
+          <option name="PATTERN" value="Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Max_Sum_subarray_of_size_k" />
-        <item itemvalue="Application.gfg" />
-        <item itemvalue="Application.Pair_with_largest_sum_which_is_less_than_K" />
-        <item itemvalue="Application.Spiral_Matrix_54" />
-        <item itemvalue="Application.Length_of_Last_Word" />
+        <item itemvalue="Application.Sum_triangle_from_array" />
+        <item itemvalue="Application.Permutations" />
+        <item itemvalue="Application.Remove" />
+        <item itemvalue="Application.Remove_a_from_string" />
+        <item itemvalue="Application.SubSequence" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674500523325</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="JAVA QUESTION">
+      <created>1674590597065</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674590597065</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,6 +259,42 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/Factorial.java</url>
+          <line>9</line>
+          <properties class="Recursion.Factorial" method="factorial">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/Coubt_number_of_n_int_number.java</url>
+          <line>30</line>
+          <properties class="Recursion.Coubt_number_of_n_int_number" method="sum_of_digits">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/Pallindrome_String.java</url>
+          <line>29</line>
+          <properties class="Recursion.Pallindrome_String" method="isPalin">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/Permutations.java</url>
+          <line>8</line>
+          <properties class="Recursion.Permutations" method="permutations">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>
@@ -322,6 +385,11 @@
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>
           <line>136</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/Factorial.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
