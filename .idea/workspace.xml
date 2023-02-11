@@ -5,30 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="JAVA QUESTION">
-      <change afterPath="$PROJECT_DIR$/src/Basics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/A_to_the_power.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/A_to_the_power_b.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Coubt_number_of_n_int_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Factorial_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Generate_Parentheses_22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Pallindrome_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Print_till_digit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Remove_char.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Reverse_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Reverse_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Stack_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/SubSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Sum_of_digits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Sum_till_n.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Sum_triangle_from_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/count_the_occurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/infixtopostfix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sliding_window/Kartik_Bhaiya_And_Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sliding_window/Kartik_Bhaiya_And_Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/Sum_triangle_from_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Sum_triangle_from_array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674590597065</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="JAVA QUESTION">
+      <created>1676138023150</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676138023150</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
