@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="JAVA QUESTION">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/First_uppercase_letter_in_a_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/length_of_a_string_using_recursion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.First_uppercase_letter_in_a_string">
+  <component name="RunManager" selected="Application.length_of_a_string_using_recursion">
     <configuration name="First_uppercase_letter_in_a_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recursion.First_uppercase_letter_in_a_string" />
       <module name="JAVA_QUESTIONS" />
@@ -68,21 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Permutations" />
-      <module name="JAVA_QUESTIONS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Remove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Remove" />
+    <configuration name="Print_till_digit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Print_till_digit" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
@@ -96,6 +83,19 @@
     </configuration>
     <configuration name="Sum_triangle_from_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recursion.Sum_triangle_from_array" />
+      <module name="JAVA_QUESTIONS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="length_of_a_string_using_recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.length_of_a_string_using_recursion" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.length_of_a_string_using_recursion" />
+        <item itemvalue="Application.Print_till_digit" />
         <item itemvalue="Application.First_uppercase_letter_in_a_string" />
         <item itemvalue="Application.Minimum_and_Maximum_of_array" />
         <item itemvalue="Application.Sum_triangle_from_array" />
-        <item itemvalue="Application.Permutations" />
-        <item itemvalue="Application.Remove" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676211144209</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="JAVA QUESTION">
+      <created>1676215788123</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676215788123</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
