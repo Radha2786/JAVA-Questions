@@ -6,9 +6,12 @@ import java.util.List;
 public class Permutations {
     public static void main(String[] args) {
         String st = "aba";
+//        String st = "abc";
         List<String> list = new ArrayList<>();
         permutation_with_no_repeatation(st , "" , list);
         System.out.println(list);
+//        permutations(st , "" , list);
+//        System.out.println(list);
     }
 
     static void permutations(String st , String ans , List<String> list){
