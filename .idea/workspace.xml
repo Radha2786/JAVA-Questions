@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="JAVA QUESTION">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/A_ki_power_b_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Binary_string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/REPLACE_HI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Target_Sum_494.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Having_Infinite_coins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Letter_combinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Not_Having_Infinite_coins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Reach_to_the_destination_by_dice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Minimum_window_substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Minimum_window_substring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Permutations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/A_ki_power_b_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/A_ki_power_b_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/Binary_string.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Target_Sum_494">
+  <component name="RunManager" selected="Application.A_ki_power_b_2">
     <configuration name="A_ki_power_b_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recursion.A_ki_power_b_2" />
       <module name="JAVA_QUESTIONS" />
@@ -60,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Minimum_window_substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Minimum_window_substring" />
+    <configuration name="Having_Infinite_coins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Having_Infinite_coins" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
@@ -73,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Permutations" />
+    <configuration name="Letter_combinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Letter_combinations" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="REPLACE_HI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.REPLACE_HI" />
+    <configuration name="Reach_to_the_destination_by_dice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Reach_to_the_destination_by_dice" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
@@ -137,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Target_Sum_494" />
-        <item itemvalue="Application.Permutations" />
-        <item itemvalue="Application.REPLACE_HI" />
         <item itemvalue="Application.A_ki_power_b_2" />
-        <item itemvalue="Application.Minimum_window_substring" />
+        <item itemvalue="Application.Reach_to_the_destination_by_dice" />
+        <item itemvalue="Application.Having_Infinite_coins" />
+        <item itemvalue="Application.Letter_combinations" />
+        <item itemvalue="Application.Target_Sum_494" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676315035427</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="JAVA QUESTION">
+      <created>1676568626097</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1676568626097</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -354,6 +361,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/A_ki_power_b_2.java</url>
+          <line>13</line>
+          <properties class="Recursion.A_ki_power_b_2" method="power">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>
