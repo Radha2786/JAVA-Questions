@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="JAVA QUESTION" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="INTRODUCTION TO BACKTRACKING">
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Permutations_without_repetations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Permutations.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Monotonic_Array">
+  <component name="RunManager" selected="Application.Permutations_without_repetations">
     <configuration name="A_ki_power_b_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recursion.A_ki_power_b_2" />
       <module name="JAVA_QUESTIONS" />
@@ -91,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reach_to_the_destination_by_dice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Reach_to_the_destination_by_dice" />
+    <configuration name="Permutations_without_repetations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Permutations_without_repetations" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Permutations_without_repetations" />
+        <item itemvalue="Application.Permutations" />
         <item itemvalue="Application.Monotonic_Array" />
         <item itemvalue="Application.Permutation_practice" />
-        <item itemvalue="Application.Permutations" />
         <item itemvalue="Application.A_ki_power_b_2" />
-        <item itemvalue="Application.Reach_to_the_destination_by_dice" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676755902278</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="INTRODUCTION TO BACKTRACKING">
+      <created>1677940605004</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1677940605004</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -282,7 +293,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="agga" />
     <MESSAGE value="JAVA QUESTION" />
-    <option name="LAST_COMMIT_MESSAGE" value="JAVA QUESTION" />
+    <MESSAGE value="INTRODUCTION TO BACKTRACKING" />
+    <option name="LAST_COMMIT_MESSAGE" value="INTRODUCTION TO BACKTRACKING" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -367,15 +379,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Recursion/Permutations.java</url>
-          <line>16</line>
-          <properties class="Recursion.Permutations" method="permutations">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/LEETCODE/Monotonic_Array.java</url>
