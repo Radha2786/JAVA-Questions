@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="INTRODUCTION TO BACKTRACKING">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Permutations_without_repetations.java" afterDir="false" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="Permutations">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Permutations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/Letter_combinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Letter_combinations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/Lexicographically_counting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Lexicographically_counting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +42,22 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Permutations_without_repetations">
-    <configuration name="A_ki_power_b_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.A_ki_power_b_2" />
+  <component name="RunManager" selected="Application.Lexicographically_counting">
+    <configuration name="Letter_combinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Letter_combinations" />
+      <module name="JAVA_QUESTIONS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lexicographically_counting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Lexicographically_counting" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
@@ -62,19 +75,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LEETCODE.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Permutation_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Permutation_practice" />
-      <module name="JAVA_QUESTIONS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lexicographically_counting" />
+        <item itemvalue="Application.Letter_combinations" />
         <item itemvalue="Application.Permutations_without_repetations" />
         <item itemvalue="Application.Permutations" />
         <item itemvalue="Application.Monotonic_Array" />
-        <item itemvalue="Application.Permutation_practice" />
-        <item itemvalue="Application.A_ki_power_b_2" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677940605004</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Permutations">
+      <created>1677945360281</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1677945360281</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -294,7 +301,8 @@
     <MESSAGE value="agga" />
     <MESSAGE value="JAVA QUESTION" />
     <MESSAGE value="INTRODUCTION TO BACKTRACKING" />
-    <option name="LAST_COMMIT_MESSAGE" value="INTRODUCTION TO BACKTRACKING" />
+    <MESSAGE value="Permutations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Permutations" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
