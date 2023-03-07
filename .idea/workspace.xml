@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="TOWER OF HANOI">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Backtracking/Place_Queens_on_a_single_box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Backtracking/Place_Queens_on_a_single_box_combinations.java" afterDir="false" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="PLACE QUEENS ON A SINGLE BOARD">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/MAZE_PROBLEMS/Move_V_and_H.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +36,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Recursion.Backtracking.Place_Queens_on_a_single_box_combinations">
+}]]></component>
+  <component name="RunManager" selected="Application.Move_V_and_H">
     <configuration name="Basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basics" />
       <module name="JAVA_QUESTIONS" />
@@ -51,12 +52,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lexicographically_counting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Lexicographically_counting" />
+    <configuration name="Move_V_and_H" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.MAZE_PROBLEMS.Move_V_and_H" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.*" />
+          <option name="PATTERN" value="Recursion.MAZE_PROBLEMS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Move_V_and_H" />
         <item itemvalue="Application.Recursion.Backtracking.Place_Queens_on_a_single_box_combinations" />
         <item itemvalue="Application.Place_Queens_on_a_single_box_permutations" />
         <item itemvalue="Application.Basics" />
         <item itemvalue="Application.Tower_of_Hanoi" />
-        <item itemvalue="Application.Lexicographically_counting" />
       </list>
     </recent_temporary>
   </component>
@@ -292,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678109051472</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="PLACE QUEENS ON A SINGLE BOARD">
+      <created>1678183673435</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1678183673435</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -312,7 +320,8 @@
     <MESSAGE value="INTRODUCTION TO BACKTRACKING" />
     <MESSAGE value="Permutations" />
     <MESSAGE value="TOWER OF HANOI" />
-    <option name="LAST_COMMIT_MESSAGE" value="TOWER OF HANOI" />
+    <MESSAGE value="PLACE QUEENS ON A SINGLE BOARD" />
+    <option name="LAST_COMMIT_MESSAGE" value="PLACE QUEENS ON A SINGLE BOARD" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -417,9 +426,9 @@
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Recursion/Backtracking/Place_Queens_on_a_single_box.java</url>
+          <url>file://$PROJECT_DIR$/src/Recursion/Backtracking/Place_Queens_on_a_single_box_permutations.java</url>
           <line>7</line>
-          <properties class="Recursion.Backtracking.Place_Queens_on_a_single_box" method="placeQueens">
+          <properties class="Recursion.Backtracking.Place_Queens_on_a_single_box_permutations" method="placeQueens">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
