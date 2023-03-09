@@ -3,8 +3,10 @@ package Recursion;
 public class Having_Infinite_coins {
     public static void main(String[] args) {
         int target = 6;
-        int n = 2;
-        System.out.println(choices_upto_target(target , n , 0 , ""));
+//        int n = 2;
+//        System.out.println(choices_upto_target(target , n , 0 , ""));
+        Choices_upto_target(target , 0 , "");
+
     }
 
 //    FOR 3 CHOICES
