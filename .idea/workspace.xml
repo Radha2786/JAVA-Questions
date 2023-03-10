@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="JAVA QUESTION">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Backtracking/Target_sum_all_combinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Backtracking/Target_sum_all_permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/MAZE_PROBLEMS/Move_V_H_and_D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="Target Sum" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -299,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678379391554</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Target Sum">
+      <created>1678443842436</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1678443842436</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -318,7 +319,8 @@
     <MESSAGE value="INTRODUCTION TO BACKTRACKING" />
     <MESSAGE value="Permutations" />
     <MESSAGE value="JAVA QUESTION" />
-    <option name="LAST_COMMIT_MESSAGE" value="JAVA QUESTION" />
+    <MESSAGE value="Target Sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Target Sum" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
