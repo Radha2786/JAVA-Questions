@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="JAVA QUESTION">
-      <change afterPath="$PROJECT_DIR$/src/LEETCODE/_1bit_and_2bit_Characters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/MAZE_PROBLEMS/Move_Horizontaly_vertically.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="Target Sum" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,13 +31,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS"
   }
-}</component>
-  <component name="RunManager" selected="Application._1bit_and_2bit_Characters">
+}]]></component>
+  <component name="RunManager" selected="Application.Target_sum_all_combinations">
     <configuration name="First_Letter_to_Appear_Twice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LEETCODE.First_Letter_to_Appear_Twice" />
       <module name="JAVA_QUESTIONS" />
@@ -56,21 +52,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Move_Horizontaly_vertically" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.MAZE_PROBLEMS.Move_Horizontaly_vertically" />
-      <module name="JAVA_QUESTIONS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recursion.MAZE_PROBLEMS.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Move_V_and_H" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.MAZE_PROBLEMS.Move_V_and_H" />
+    <configuration name="Move_V_H_and_D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.MAZE_PROBLEMS.Move_V_H_and_D" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
@@ -95,12 +78,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1bit_and_2bit_Characters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LEETCODE._1bit_and_2bit_Characters" />
+    <configuration name="Target_sum_all_combinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Backtracking.Target_sum_all_combinations" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LEETCODE.*" />
+          <option name="PATTERN" value="Recursion.Backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Target_sum_all_permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Backtracking.Target_sum_all_permutations" />
+      <module name="JAVA_QUESTIONS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.Backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,9 +129,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._1bit_and_2bit_Characters" />
-        <item itemvalue="Application.Move_V_and_H" />
-        <item itemvalue="Application.Move_Horizontaly_vertically" />
+        <item itemvalue="Application.Target_sum_all_combinations" />
+        <item itemvalue="Application.Target_sum_all_permutations" />
+        <item itemvalue="Application.Move_V_H_and_D" />
         <item itemvalue="Application.First_Letter_to_Appear_Twice" />
         <item itemvalue="Application.Place_Queens_on_a_single_box_permutations" />
       </list>
@@ -297,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678379391554</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Target Sum">
+      <created>1678443842436</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1678443842436</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,7 +319,8 @@
     <MESSAGE value="INTRODUCTION TO BACKTRACKING" />
     <MESSAGE value="Permutations" />
     <MESSAGE value="JAVA QUESTION" />
-    <option name="LAST_COMMIT_MESSAGE" value="JAVA QUESTION" />
+    <MESSAGE value="Target Sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Target Sum" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -419,24 +423,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Recursion/MAZE_PROBLEMS/Move_V_and_H.java</url>
-          <line>30</line>
-          <properties class="Recursion.MAZE_PROBLEMS.Move_V_and_H" method="countPaths">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/LEETCODE/_1bit_and_2bit_Characters.java</url>
-          <line>4</line>
-          <properties class="LEETCODE._1bit_and_2bit_Characters" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>
