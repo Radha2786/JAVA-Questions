@@ -45,7 +45,6 @@ public class Move_V_and_H {
 //        MOVE HORIZONTALLY
        count += countPaths(board_length , current_row , current_col + 1  , ans + "H");
 
-
        return count;
     }
 }
