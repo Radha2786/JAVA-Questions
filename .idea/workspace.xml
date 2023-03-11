@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="Target Sum" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="MAZE PROBLEMS">
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Backtracking/Combinations_77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Backtracking/Target_sum_combination_limited_number_of_coins.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/Backtracking/Target_sum_all_combinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Backtracking/Target_sum_all_combinations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/MAZE_PROBLEMS/Move_in_all_directions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/MAZE_PROBLEMS/Move_in_all_directions.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,35 +32,23 @@
   </component>
   <component name="ProjectId" id="2ETx8tnm1jcjl6NKeeGhCcvh34K" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Target_sum_all_combinations">
-    <configuration name="First_Letter_to_Appear_Twice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LEETCODE.First_Letter_to_Appear_Twice" />
-      <module name="JAVA_QUESTIONS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LEETCODE.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Move_V_H_and_D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.MAZE_PROBLEMS.Move_V_H_and_D" />
+}</component>
+  <component name="RunManager" selected="Application.Target_sum_combination_limited_number_of_coins">
+    <configuration name="Move_V_H_and_D_Having_Stones_in_middle_path" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.MAZE_PROBLEMS.Move_V_H_and_D_Having_Stones_in_middle_path" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +60,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Place_Queens_on_a_single_box_permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Backtracking.Place_Queens_on_a_single_box_permutations" />
+    <configuration name="Move_in_all_directions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.MAZE_PROBLEMS.Move_in_all_directions" />
+      <module name="JAVA_QUESTIONS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.MAZE_PROBLEMS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Recursion.Backtracking.Combinations_77" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Backtracking.Combinations_77" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
@@ -78,7 +86,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Target_sum_all_combinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Recursion.Backtracking.Target_sum_all_combinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recursion.Backtracking.Target_sum_all_combinations" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
@@ -91,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Target_sum_all_permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Backtracking.Target_sum_all_permutations" />
+    <configuration name="Target_sum_combination_limited_number_of_coins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Backtracking.Target_sum_combination_limited_number_of_coins" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Target_sum_all_combinations" />
-        <item itemvalue="Application.Target_sum_all_permutations" />
-        <item itemvalue="Application.Move_V_H_and_D" />
-        <item itemvalue="Application.First_Letter_to_Appear_Twice" />
-        <item itemvalue="Application.Place_Queens_on_a_single_box_permutations" />
+        <item itemvalue="Application.Target_sum_combination_limited_number_of_coins" />
+        <item itemvalue="Application.Recursion.Backtracking.Combinations_77" />
+        <item itemvalue="Application.Recursion.Backtracking.Target_sum_all_combinations" />
+        <item itemvalue="Application.Move_in_all_directions" />
+        <item itemvalue="Application.Move_V_H_and_D_Having_Stones_in_middle_path" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678443842436</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Target Sum">
+      <created>1678444631051</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1678444631051</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
