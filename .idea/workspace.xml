@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="JAVA Q UESTION">
-      <change afterPath="$PROJECT_DIR$/src/LEETCODE/Index_of_the_First_Occurrence_in_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LEETCODE/MaximumProductOfTwoElementsInanArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LEETCODE/RearrangeArrayMaximizePrefixScore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11-03-2023_11_11__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11-03-2023_11_11__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Vivek_loves_array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/MAZE_PROBLEMS/Move_Horizontaly_vertically.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/MAZE_PROBLEMS/Move_Horizontaly_vertically.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -300,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678379391554</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="JAVA Q UESTION">
+      <created>1678769958121</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1678769958121</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -319,7 +321,8 @@
     <MESSAGE value="INTRODUCTION TO BACKTRACKING" />
     <MESSAGE value="Permutations" />
     <MESSAGE value="JAVA QUESTION" />
-    <option name="LAST_COMMIT_MESSAGE" value="JAVA QUESTION" />
+    <MESSAGE value="JAVA Q UESTION" />
+    <option name="LAST_COMMIT_MESSAGE" value="JAVA Q UESTION" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
