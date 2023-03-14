@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="JAVA Q UESTION">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Vivek_loves_array.java" afterDir="false" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="VIVEK LOVES ARRAY">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +27,7 @@
   </component>
   <component name="ProjectId" id="2ETx8tnm1jcjl6NKeeGhCcvh34K" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -37,11 +37,25 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MaximumProductOfTwoElementsInanArray">
-    <configuration name="Combinations_77" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Palindrome_Partitioning_131">
+    <configuration name="Palindrome_Partitioning_131" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Backtracking.Palindrome_Partitioning_131" />
+      <module name="JAVA_QUESTIONS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.Backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Recursion.Backtracking.Combinations_77" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recursion.Backtracking.Combinations_77" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
@@ -54,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Index_of_the_First_Occurrence_in_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LEETCODE.Index_of_the_First_Occurrence_in_String" />
+    <configuration name="Recursion.Backtracking.Partition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Backtracking.Partition" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LEETCODE.*" />
+          <option name="PATTERN" value="Recursion.Backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LEETCODE._1bit_and_2bit_Characters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LEETCODE._1bit_and_2bit_Characters" />
+    <configuration name="Target_sum_combination_limited_number_of_coins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Backtracking.Target_sum_combination_limited_number_of_coins" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LEETCODE.*" />
+          <option name="PATTERN" value="Recursion.Backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,25 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumProductOfTwoElementsInanArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LEETCODE.MaximumProductOfTwoElementsInanArray" />
+    <configuration name="Vivek_Loves_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coding_Blocks_Assignment.Vivek_Loves_Array" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LEETCODE.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RearrangeArrayMaximizePrefixScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LEETCODE.RearrangeArrayMaximizePrefixScore" />
-      <module name="JAVA_QUESTIONS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LEETCODE.*" />
+          <option name="PATTERN" value="Coding_Blocks_Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaximumProductOfTwoElementsInanArray" />
-        <item itemvalue="Application.Index_of_the_First_Occurrence_in_String" />
-        <item itemvalue="Application.Combinations_77" />
-        <item itemvalue="Application.RearrangeArrayMaximizePrefixScore" />
-        <item itemvalue="Application.LEETCODE._1bit_and_2bit_Characters" />
+        <item itemvalue="Application.Palindrome_Partitioning_131" />
+        <item itemvalue="Application.Recursion.Backtracking.Partition" />
+        <item itemvalue="Application.Vivek_Loves_Array" />
+        <item itemvalue="Application.Target_sum_combination_limited_number_of_coins" />
+        <item itemvalue="Application.Recursion.Backtracking.Combinations_77" />
       </list>
     </recent_temporary>
   </component>
@@ -295,14 +296,28 @@
       <option name="project" value="LOCAL" />
       <updated>1678379391554</updated>
     </task>
-    <task id="LOCAL-00022" summary="JAVA Q UESTION">
-      <created>1678769958121</created>
+    <task id="LOCAL-00022" summary="Target Sum">
+      <created>1678443842436</created>
       <option name="number" value="00022" />
       <option name="presentableId" value="LOCAL-00022" />
       <option name="project" value="LOCAL" />
-      <updated>1678769958121</updated>
+      <updated>1678443842436</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Target Sum">
+      <created>1678444631051</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1678444631051</updated>
+    </task>
+    <task id="LOCAL-00024" summary="VIVEK LOVES ARRAY">
+      <created>1678814039818</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1678814039818</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -321,8 +336,9 @@
     <MESSAGE value="INTRODUCTION TO BACKTRACKING" />
     <MESSAGE value="Permutations" />
     <MESSAGE value="JAVA QUESTION" />
-    <MESSAGE value="JAVA Q UESTION" />
-    <option name="LAST_COMMIT_MESSAGE" value="JAVA Q UESTION" />
+    <MESSAGE value="Target Sum" />
+    <MESSAGE value="VIVEK LOVES ARRAY" />
+    <option name="LAST_COMMIT_MESSAGE" value="VIVEK LOVES ARRAY" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -427,67 +443,22 @@
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Recursion/MAZE_PROBLEMS/Move_V_and_H.java</url>
-          <line>30</line>
-          <properties class="Recursion.MAZE_PROBLEMS.Move_V_and_H" method="countPaths">
+          <url>file://$PROJECT_DIR$/src/Coding_Blocks_Assignment/Vivek_Loves_Array.java</url>
+          <line>19</line>
+          <properties class="Coding_Blocks_Assignment.Vivek_Loves_Array" method="loves_Array">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/LEETCODE/_1bit_and_2bit_Characters.java</url>
-          <line>4</line>
-          <properties class="LEETCODE._1bit_and_2bit_Characters" method="main">
+          <url>file://$PROJECT_DIR$/src/Recursion/Backtracking/Partition.java</url>
+          <line>16</line>
+          <properties class="Recursion.Backtracking.Partition" method="part">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="45" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/LEETCODE/RearrangeArrayMaximizePrefixScore.java</url>
-          <line>6</line>
-          <properties class="LEETCODE.RearrangeArrayMaximizePrefixScore">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Recursion/Backtracking/Combinations_77.java</url>
-          <line>5</line>
-          <properties class="Recursion.Backtracking.Combinations_77" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="48" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Recursion/Backtracking/Combinations_77.java</url>
-          <line>12</line>
-          <properties class="Recursion.Backtracking.Combinations_77" method="combinations">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="49" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/LEETCODE/Index_of_the_First_Occurrence_in_String.java</url>
-          <line>3</line>
-          <properties class="LEETCODE.Index_of_the_First_Occurrence_in_String" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/LEETCODE/MaximumProductOfTwoElementsInanArray.java</url>
-          <line>3</line>
-          <properties class="LEETCODE.MaximumProductOfTwoElementsInanArray" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="54" />
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>
@@ -588,16 +559,6 @@
           <url>file://$PROJECT_DIR$/src/LEETCODE/First_Letter_to_Appear_Twice.java</url>
           <line>5</line>
           <option name="timeStamp" value="39" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LEETCODE/RearrangeArrayMaximizePrefixScore.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LEETCODE/MaximumProductOfTwoElementsInanArray.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="53" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
