@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="MAZE PROBLEMS">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Backtracking/Combinations_77.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Backtracking/Target_sum_combination_limited_number_of_coins.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="VIVEK LOVES ARRAY">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Backtracking/Target_sum_all_combinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Backtracking/Target_sum_all_combinations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/MAZE_PROBLEMS/Move_in_all_directions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/MAZE_PROBLEMS/Move_in_all_directions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,26 +41,13 @@
     &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Target_sum_combination_limited_number_of_coins">
-    <configuration name="Move_V_H_and_D_Having_Stones_in_middle_path" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.MAZE_PROBLEMS.Move_V_H_and_D_Having_Stones_in_middle_path" />
+  <component name="RunManager" selected="Application.Palindrome_Partitioning_131">
+    <configuration name="Palindrome_Partitioning_131" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Backtracking.Palindrome_Partitioning_131" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.MAZE_PROBLEMS.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Move_in_all_directions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.MAZE_PROBLEMS.Move_in_all_directions" />
-      <module name="JAVA_QUESTIONS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recursion.MAZE_PROBLEMS.*" />
+          <option name="PATTERN" value="Recursion.Backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recursion.Backtracking.Target_sum_all_combinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Backtracking.Target_sum_all_combinations" />
+    <configuration name="Recursion.Backtracking.Partition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Backtracking.Partition" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
@@ -105,6 +87,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Recursion.Backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Vivek_Loves_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coding_Blocks_Assignment.Vivek_Loves_Array" />
+      <module name="JAVA_QUESTIONS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Coding_Blocks_Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Palindrome_Partitioning_131" />
+        <item itemvalue="Application.Recursion.Backtracking.Partition" />
+        <item itemvalue="Application.Vivek_Loves_Array" />
         <item itemvalue="Application.Target_sum_combination_limited_number_of_coins" />
         <item itemvalue="Application.Recursion.Backtracking.Combinations_77" />
-        <item itemvalue="Application.Recursion.Backtracking.Target_sum_all_combinations" />
-        <item itemvalue="Application.Move_in_all_directions" />
-        <item itemvalue="Application.Move_V_H_and_D_Having_Stones_in_middle_path" />
       </list>
     </recent_temporary>
   </component>
@@ -315,7 +310,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678444631051</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="VIVEK LOVES ARRAY">
+      <created>1678814039818</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1678814039818</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -335,7 +337,8 @@
     <MESSAGE value="Permutations" />
     <MESSAGE value="JAVA QUESTION" />
     <MESSAGE value="Target Sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="Target Sum" />
+    <MESSAGE value="VIVEK LOVES ARRAY" />
+    <option name="LAST_COMMIT_MESSAGE" value="VIVEK LOVES ARRAY" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -438,6 +441,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Coding_Blocks_Assignment/Vivek_Loves_Array.java</url>
+          <line>19</line>
+          <properties class="Coding_Blocks_Assignment.Vivek_Loves_Array" method="loves_Array">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/Backtracking/Partition.java</url>
+          <line>16</line>
+          <properties class="Recursion.Backtracking.Partition" method="part">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>
