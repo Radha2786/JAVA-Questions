@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="VIVEK LOVES ARRAY">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="PALINDROME PARTITIONING" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -317,7 +315,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678814039818</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="PALINDROME PARTITIONING">
+      <created>1678824070596</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1678824070596</updated>
+    </task>
+    <task id="LOCAL-00026" summary="PALINDROME PARTITIONING">
+      <created>1678824086503</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1678824086503</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -338,7 +350,8 @@
     <MESSAGE value="JAVA QUESTION" />
     <MESSAGE value="Target Sum" />
     <MESSAGE value="VIVEK LOVES ARRAY" />
-    <option name="LAST_COMMIT_MESSAGE" value="VIVEK LOVES ARRAY" />
+    <MESSAGE value="PALINDROME PARTITIONING" />
+    <option name="LAST_COMMIT_MESSAGE" value="PALINDROME PARTITIONING" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
