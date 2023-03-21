@@ -1,4 +1,5 @@
 package Recursion;
+import java.util.Scanner;
 /*
 Vivek loves to play with array . One day Vivek just came up with a new array game which was introduced to him by
 his friend Ujjwal. The rules of the game are as follows:
@@ -32,4 +33,39 @@ Sample Output
 3
 */
 public class Vivek_loves_array {
+    public static void main(String[] args) {
+
+
+        Scanner sc = new Scanner(System.in);
+        int t = sc.nextInt();
+        while (t-- > 0) {
+            int n = sc.nextInt();
+            int[] arr = new int[n];
+            for(int i=0;i<n;i++){
+              arr[i]= sc.nextInt();
+            }
+            System.out.println(loves_array(arr,0,arr.length-1));
+
+        }
+    }
+    static int loves_array(int[] arr, int s,int e){
+        int point =0;
+        for(int mid =s ; mid<e ; mid++){
+            int left =0;
+            for(int i=s;i<=mid;i++){
+                left+=arr[i];
+            }
+            int right=0;
+            for(int i=mid+1;i<=e ;i++){
+                right+=arr[i];
+            }
+            if(left==right){
+                int f1=loves_array(arr,s,mid);
+                int f2= loves_array(arr,mid+1,e);
+                return Math.max(f1,f2)+1;
+
+            }
+        }
+        return point;
+    }
 }

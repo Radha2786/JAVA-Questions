@@ -4,7 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="PALINDROME PARTITIONING" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="JAVA Q UESTION">
+      <change afterPath="$PROJECT_DIR$/src/Coding_Blocks_Assignment/Subset_problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LEETCODE/Letter_Case_Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LEETCODE/Numbers_Disappeared.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LEETCODE/Single_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Backtracking/Partition_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/MAZE_PROBLEMS/Rat_in_a_Maze_Problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/MAZE_PROBLEMS/WordSearch_79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Subset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10-03-2023_08_08_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10-03-2023_08_08_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11-03-2023_11_11_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11-03-2023_11_11__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11-03-2023_11_35_AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11-03-2023_11_35_AM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12-03-2023_09_33_AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12-03-2023_09_33_AM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15-03-2023_01_28__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15-03-2023_01_28__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/Backtracking/Partition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Backtracking/Partition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/MAZE_PROBLEMS/Move_Horizontaly_vertically.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/Vivek_loves_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Vivek_loves_array.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,13 +62,13 @@
     &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Palindrome_Partitioning_131">
-    <configuration name="Palindrome_Partitioning_131" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Backtracking.Palindrome_Partitioning_131" />
+  <component name="RunManager" selected="Application.Numbers_Disappeared">
+    <configuration name="Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LEETCODE.Duplicate" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.Backtracking.*" />
+          <option name="PATTERN" value="LEETCODE.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recursion.Backtracking.Combinations_77" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Backtracking.Combinations_77" />
+    <configuration name="Letter_Case_Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LEETCODE.Letter_Case_Permutation" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.Backtracking.*" />
+          <option name="PATTERN" value="LEETCODE.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recursion.Backtracking.Partition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Backtracking.Partition" />
+    <configuration name="Numbers_Disappeared" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LEETCODE.Numbers_Disappeared" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.Backtracking.*" />
+          <option name="PATTERN" value="LEETCODE.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Target_sum_combination_limited_number_of_coins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Backtracking.Target_sum_combination_limited_number_of_coins" />
+    <configuration name="Numbers_Disappeared_in_ArrayFind_All_Numbers_Disappeared_in_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LEETCODE.Numbers_Disappeared_in_ArrayFind_All_Numbers_Disappeared_in_Array" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.Backtracking.*" />
+          <option name="PATTERN" value="LEETCODE.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Vivek_Loves_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coding_Blocks_Assignment.Vivek_Loves_Array" />
+    <configuration name="Subset_problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coding_Blocks_Assignment.Subset_problem" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Palindrome_Partitioning_131" />
-        <item itemvalue="Application.Recursion.Backtracking.Partition" />
-        <item itemvalue="Application.Vivek_Loves_Array" />
-        <item itemvalue="Application.Target_sum_combination_limited_number_of_coins" />
-        <item itemvalue="Application.Recursion.Backtracking.Combinations_77" />
+        <item itemvalue="Application.Numbers_Disappeared" />
+        <item itemvalue="Application.Numbers_Disappeared_in_ArrayFind_All_Numbers_Disappeared_in_Array" />
+        <item itemvalue="Application.Duplicate" />
+        <item itemvalue="Application.Subset_problem" />
+        <item itemvalue="Application.Letter_Case_Permutation" />
       </list>
     </recent_temporary>
   </component>
@@ -315,21 +338,7 @@
       <option name="project" value="LOCAL" />
       <updated>1678814039818</updated>
     </task>
-    <task id="LOCAL-00025" summary="PALINDROME PARTITIONING">
-      <created>1678824070596</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1678824070596</updated>
-    </task>
-    <task id="LOCAL-00026" summary="PALINDROME PARTITIONING">
-      <created>1678824086503</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1678824086503</updated>
-    </task>
-    <option name="localTasksCounter" value="27" />
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -350,8 +359,7 @@
     <MESSAGE value="JAVA QUESTION" />
     <MESSAGE value="Target Sum" />
     <MESSAGE value="VIVEK LOVES ARRAY" />
-    <MESSAGE value="PALINDROME PARTITIONING" />
-    <option name="LAST_COMMIT_MESSAGE" value="PALINDROME PARTITIONING" />
+    <option name="LAST_COMMIT_MESSAGE" value="VIVEK LOVES ARRAY" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -473,6 +481,42 @@
           </properties>
           <option name="timeStamp" value="42" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/MAZE_PROBLEMS/WordSearch_79.java</url>
+          <line>20</line>
+          <properties class="Recursion.MAZE_PROBLEMS.WordSearch_79" method="search">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Coding_Blocks_Assignment/Subset_problem.java</url>
+          <line>42</line>
+          <properties class="Coding_Blocks_Assignment.Subset_problem" method="Subset">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LEETCODE/Letter_Case_Permutation.java</url>
+          <line>10</line>
+          <properties class="LEETCODE.Letter_Case_Permutation" method="Letter_case">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LEETCODE/Numbers_Disappeared.java</url>
+          <line>5</line>
+          <properties class="LEETCODE.Numbers_Disappeared" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>
           <line>100</line>
@@ -573,6 +617,16 @@
           <line>5</line>
           <option name="timeStamp" value="39" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/MAZE_PROBLEMS/WordSearch_79.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Coding_Blocks_Assignment/Subset_problem.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="22" />
@@ -581,6 +635,9 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JAVA_QUESTIONS$WordSearch_79.ic" NAME="WordSearch_79 Coverage Results" MODIFIED="1678965641646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Recursion.MAZE_PROBLEMS.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/JAVA_QUESTIONS$String_pallindrome.ic" NAME="String_pallindrome Coverage Results" MODIFIED="1672658783576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Strings.*</FILTER>
     </SUITE>

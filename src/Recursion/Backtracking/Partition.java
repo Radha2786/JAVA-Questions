@@ -5,8 +5,8 @@ import java.util.ArrayList;
 public class Partition {
     public static void main(String[] args) {
         String st = "Radha";
-//        part(st , "");
-        part2("aab" , new ArrayList<>());
+        part(st , "");
+//        part2("aab" , new ArrayList<>());
 
 //        ArrayList<ArrayList<String>> ll = new ArrayList<>();
 //
