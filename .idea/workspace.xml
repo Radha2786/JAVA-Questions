@@ -5,28 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="JAVA Q UESTION">
-      <change afterPath="$PROJECT_DIR$/src/Coding_Blocks_Assignment/Subset_problem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LEETCODE/Letter_Case_Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LEETCODE/Numbers_Disappeared.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LEETCODE/Single_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Backtracking/Partition_practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/MAZE_PROBLEMS/Rat_in_a_Maze_Problem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/MAZE_PROBLEMS/WordSearch_79.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Subset.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10-03-2023_08_08_PM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10-03-2023_08_08_PM__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11-03-2023_11_11_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11-03-2023_11_11__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11-03-2023_11_35_AM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11-03-2023_11_35_AM__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12-03-2023_09_33_AM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12-03-2023_09_33_AM__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15-03-2023_01_28__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15-03-2023_01_28__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Blocks_Assignment/Mazepath_D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LEETCODE/First_Missing_Positive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Backtracking/Partition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Backtracking/Partition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/MAZE_PROBLEMS/Move_Horizontaly_vertically.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Vivek_loves_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Vivek_loves_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/Subset.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +44,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Numbers_Disappeared">
+  <component name="RunManager" selected="Application.Mazepath_D">
     <configuration name="Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LEETCODE.Duplicate" />
       <module name="JAVA_QUESTIONS" />
@@ -76,12 +58,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Letter_Case_Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LEETCODE.Letter_Case_Permutation" />
+    <configuration name="First_Missing_Positive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LEETCODE.First_Missing_Positive" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LEETCODE.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mazepath_D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coding_Blocks_Assignment.Mazepath_D" />
+      <module name="JAVA_QUESTIONS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Coding_Blocks_Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,19 +110,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Subset_problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coding_Blocks_Assignment.Subset_problem" />
-      <module name="JAVA_QUESTIONS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Coding_Blocks_Assignment.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Remote" singleton="false">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -153,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mazepath_D" />
+        <item itemvalue="Application.First_Missing_Positive" />
         <item itemvalue="Application.Numbers_Disappeared" />
         <item itemvalue="Application.Numbers_Disappeared_in_ArrayFind_All_Numbers_Disappeared_in_Array" />
         <item itemvalue="Application.Duplicate" />
-        <item itemvalue="Application.Subset_problem" />
-        <item itemvalue="Application.Letter_Case_Permutation" />
       </list>
     </recent_temporary>
   </component>
@@ -338,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678814039818</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="JAVA Q UESTION">
+      <created>1679366742854</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1679366742854</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -359,7 +348,8 @@
     <MESSAGE value="JAVA QUESTION" />
     <MESSAGE value="Target Sum" />
     <MESSAGE value="VIVEK LOVES ARRAY" />
-    <option name="LAST_COMMIT_MESSAGE" value="VIVEK LOVES ARRAY" />
+    <MESSAGE value="JAVA Q UESTION" />
+    <option name="LAST_COMMIT_MESSAGE" value="JAVA Q UESTION" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -516,6 +506,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LEETCODE/First_Missing_Positive.java</url>
+          <line>5</line>
+          <properties class="LEETCODE.First_Missing_Positive" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>
