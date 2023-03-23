@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="JAVA Q UESTION">
-      <change afterPath="$PROJECT_DIR$/src/Coding_Blocks_Assignment/Mazepath_D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LEETCODE/First_Missing_Positive.java" afterDir="false" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="CHESS_BOARD_KNIGHT_ROOK_BISHOP">
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Backtracking/N_Queens.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Subset.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -634,11 +632,11 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/JAVA_QUESTIONS$WordSearch_79.ic" NAME="WordSearch_79 Coverage Results" MODIFIED="1678965641646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>Recursion.MAZE_PROBLEMS.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/JAVA_QUESTIONS$String_pallindrome.ic" NAME="String_pallindrome Coverage Results" MODIFIED="1672658783576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Strings.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JAVA_QUESTIONS$WordSearch_79.ic" NAME="WordSearch_79 Coverage Results" MODIFIED="1678965641646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Recursion.MAZE_PROBLEMS.*</FILTER>
     </SUITE>
   </component>
 </project>
