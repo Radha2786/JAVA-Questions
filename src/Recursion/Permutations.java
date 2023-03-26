@@ -1,14 +1,24 @@
 package Recursion;
 
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class Permutations {
     public static void main(String[] args) {
-        String st = "abc";
+        String st = "cab";
         ArrayList<String> list = new ArrayList<>();
         permutations(st , "" , list);
+//        System.out.println(list);
+        Collections.sort(list);
         System.out.println(list);
-
+        for(int i = 0 ; i < list.size() ; i++){
+            if(list.get(i).compareTo(st) < 0){
+                System.out.println(list.get(i));
+            }
+            else{
+                break;
+            }
+        }
     }
     static void permutations(String question , String ans , ArrayList<String> list){
         if(question.isEmpty()){
