@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="JAVA Q UESTION">
-      <change afterPath="$PROJECT_DIR$/src/Coding_Blocks_Assignment/Recursion_Twins.java" afterDir="false" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="PRINT PATHS">
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Backtracking/N_Knights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/MAZE_PROBLEMS/Print_Path_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23-03-2023_11_04_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23-03-2023_11_04_PM__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Permutations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +46,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Recursion_Twins">
+  <component name="RunManager" selected="Application.N_Knights">
     <configuration name="CHESS_BOARD_KNIGHT_ROOK_BISHOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recursion.MAZE_PROBLEMS.CHESS_BOARD_KNIGHT_ROOK_BISHOP" />
       <module name="JAVA_QUESTIONS" />
@@ -69,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maze_path_Count_Print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coding_Blocks_Assignment.Maze_path_Count_Print" />
+    <configuration name="N_Knights" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Backtracking.N_Knights" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coding_Blocks_Assignment.*" />
+          <option name="PATTERN" value="Recursion.Backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.N_Knights" />
         <item itemvalue="Application.Recursion_Twins" />
         <item itemvalue="Application.Subset_sum" />
         <item itemvalue="Application.CHESS_BOARD_KNIGHT_ROOK_BISHOP" />
         <item itemvalue="Application.Generate_Paranthesis" />
-        <item itemvalue="Application.Maze_path_Count_Print" />
       </list>
     </recent_temporary>
   </component>
@@ -375,7 +379,8 @@
     <MESSAGE value="Target Sum" />
     <MESSAGE value="VIVEK LOVES ARRAY" />
     <MESSAGE value="JAVA Q UESTION" />
-    <option name="LAST_COMMIT_MESSAGE" value="JAVA Q UESTION" />
+    <MESSAGE value="PRINT PATHS" />
+    <option name="LAST_COMMIT_MESSAGE" value="PRINT PATHS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -669,11 +674,11 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/JAVA_QUESTIONS$WordSearch_79.ic" NAME="WordSearch_79 Coverage Results" MODIFIED="1678965641646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>Recursion.MAZE_PROBLEMS.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/JAVA_QUESTIONS$String_pallindrome.ic" NAME="String_pallindrome Coverage Results" MODIFIED="1672658783576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Strings.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JAVA_QUESTIONS$WordSearch_79.ic" NAME="WordSearch_79 Coverage Results" MODIFIED="1678965641646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Recursion.MAZE_PROBLEMS.*</FILTER>
     </SUITE>
   </component>
 </project>
