@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="PRINT PATHS">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Backtracking/N_Knights.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/MAZE_PROBLEMS/Print_Path_Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23-03-2023_11_04_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23-03-2023_11_04_PM__Changes_.xml" afterDir="false" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="JAVA Q UESTION">
+      <change afterPath="$PROJECT_DIR$/src/LEETCODE/K_itemsWiththeMaximumSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LEETCODE/PrimeSubtractionOperation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Recursion/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Permutations.java" afterDir="false" />
     </list>
@@ -46,13 +44,13 @@
     &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.N_Knights">
-    <configuration name="CHESS_BOARD_KNIGHT_ROOK_BISHOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.MAZE_PROBLEMS.CHESS_BOARD_KNIGHT_ROOK_BISHOP" />
+  <component name="RunManager" selected="Application.K_itemsWiththeMaximumSum">
+    <configuration name="K_itemsWiththeMaximumSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LEETCODE.K_itemsWiththeMaximumSum" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.MAZE_PROBLEMS.*" />
+          <option name="PATTERN" value="LEETCODE.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Generate_Paranthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coding_Blocks_Assignment.Generate_Paranthesis" />
+    <configuration name="Lexicographically_counting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Lexicographically_counting" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coding_Blocks_Assignment.*" />
+          <option name="PATTERN" value="Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N_Knights" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Backtracking.N_Knights" />
+    <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Permutations" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.Backtracking.*" />
+          <option name="PATTERN" value="Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.N_Knights" />
+        <item itemvalue="Application.K_itemsWiththeMaximumSum" />
+        <item itemvalue="Application.Permutations" />
+        <item itemvalue="Application.Lexicographically_counting" />
         <item itemvalue="Application.Recursion_Twins" />
         <item itemvalue="Application.Subset_sum" />
-        <item itemvalue="Application.CHESS_BOARD_KNIGHT_ROOK_BISHOP" />
-        <item itemvalue="Application.Generate_Paranthesis" />
       </list>
     </recent_temporary>
   </component>
@@ -357,7 +355,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679738518315</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="JAVA Q UESTION">
+      <created>1679741539085</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1679741539085</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -379,8 +384,7 @@
     <MESSAGE value="Target Sum" />
     <MESSAGE value="VIVEK LOVES ARRAY" />
     <MESSAGE value="JAVA Q UESTION" />
-    <MESSAGE value="PRINT PATHS" />
-    <option name="LAST_COMMIT_MESSAGE" value="PRINT PATHS" />
+    <option name="LAST_COMMIT_MESSAGE" value="JAVA Q UESTION" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -556,6 +560,15 @@
           </properties>
           <option name="timeStamp" value="51" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/Lexicographically_counting.java</url>
+          <line>12</line>
+          <properties class="Recursion.Lexicographically_counting" method="lexicographicalCounting">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>
           <line>100</line>
@@ -674,11 +687,11 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/JAVA_QUESTIONS$String_pallindrome.ic" NAME="String_pallindrome Coverage Results" MODIFIED="1672658783576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>Strings.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/JAVA_QUESTIONS$WordSearch_79.ic" NAME="WordSearch_79 Coverage Results" MODIFIED="1678965641646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Recursion.MAZE_PROBLEMS.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JAVA_QUESTIONS$String_pallindrome.ic" NAME="String_pallindrome Coverage Results" MODIFIED="1672658783576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Strings.*</FILTER>
     </SUITE>
   </component>
 </project>

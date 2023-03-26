@@ -5,25 +5,25 @@ import java.util.Collections;
 
 public class Permutations {
     public static void main(String[] args) {
-        String st = "cab";
+         String st = "cab";
         ArrayList<String> list = new ArrayList<>();
         permutations(st , "" , list);
-//        System.out.println(list);
         Collections.sort(list);
         System.out.println(list);
-        for(int i = 0 ; i < list.size() ; i++){
-            if(list.get(i).compareTo(st) < 0){
-                System.out.println(list.get(i));
-            }
-            else{
-                break;
-            }
-        }
+//        for (int i = 0; i < list.size(); i++)
+//            if(list.get(i)< st){
+//
+//            }
+
+            // Printing and display the elements in ArrayList
+//            System.out.print(numbers.get(i) + " ");
+
     }
     static void permutations(String question , String ans , ArrayList<String> list){
         if(question.isEmpty()){
             list.add(ans);
-            return;
+               return;
+
         }
         for(int i = 0 ; i < question.length() ; i++){
             String prefix = question.substring(0 , i);
