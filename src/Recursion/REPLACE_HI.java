@@ -31,6 +31,7 @@ public class REPLACE_HI {
     static void func(String str,int i,int count){
         if(i>=str.length()-1){
             System.out.println(count);
+            return ;
         }
         if(str.charAt(i)=='h' && str.charAt(i+1)=='i' && str.charAt(i+2)!='t'){
             count=count+1;

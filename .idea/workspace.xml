@@ -5,23 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="JAVA Q UESTION">
-      <change afterPath="$PROJECT_DIR$/src/Coding_Blocks_Assignment/All_Indices_problem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding_Blocks_Assignment/First_Index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding_Blocks_Assignment/Last_Index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LEETCODE/Check_Knight_tour_configuration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LEETCODE/ContainsDuplicateII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LEETCODE/NQueensRevision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LEETCODE/N_Queens_count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LEETCODE/Sudoku_Solver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22-03-2023_01_15_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22-03-2023_01_15__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23-03-2023_11_04_PM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23-03-2023_11_04_PM__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23-03-2023_22_46_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23-03-2023_22_46__Changes_1.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Blocks_Assignment/Generate_Binary_Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Blocks_Assignment/Recursion_Keypad_Codes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Blocks_Assignment/Recursion_Subsequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Blocks_Assignment/Replace_all_π.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Blocks_Assignment/Replace_pi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25-03-2023_22_05_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25-03-2023_22_05__Changes_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coding_Blocks_Assignment/Chess_board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Blocks_Assignment/Chess_board.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Lexicographically_counting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Lexicographically_counting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/REPLACE_HI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/REPLACE_HI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +49,9 @@
     &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.All_Indices_problem">
-    <configuration name="All_Indices_problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coding_Blocks_Assignment.All_Indices_problem" />
+  <component name="RunManager" selected="Application.Replace_pi">
+    <configuration name="Generate_Binary_Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coding_Blocks_Assignment.Generate_Binary_Strings" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +63,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Coding_Blocks_Assignment.First_Index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coding_Blocks_Assignment.First_Index" />
+    <configuration name="REPLACE_HI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.REPLACE_HI" />
+      <module name="JAVA_QUESTIONS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Recursion_Subsequences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coding_Blocks_Assignment.Recursion_Subsequences" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Coding_Blocks_Assignment.Last_Index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coding_Blocks_Assignment.Last_Index" />
+    <configuration name="Replace_all_π" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coding_Blocks_Assignment.Replace_all_π" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
@@ -97,25 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NQueensRevision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LEETCODE.NQueensRevision" />
+    <configuration name="Replace_pi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coding_Blocks_Assignment.Replace_pi" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LEETCODE.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="N_Queens_count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LEETCODE.N_Queens_count" />
-      <module name="JAVA_QUESTIONS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LEETCODE.*" />
+          <option name="PATTERN" value="Coding_Blocks_Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.All_Indices_problem" />
-        <item itemvalue="Application.Coding_Blocks_Assignment.First_Index" />
-        <item itemvalue="Application.Coding_Blocks_Assignment.Last_Index" />
-        <item itemvalue="Application.N_Queens_count" />
-        <item itemvalue="Application.NQueensRevision" />
+        <item itemvalue="Application.Replace_pi" />
+        <item itemvalue="Application.Replace_all_π" />
+        <item itemvalue="Application.REPLACE_HI" />
+        <item itemvalue="Application.Recursion_Subsequences" />
+        <item itemvalue="Application.Generate_Binary_Strings" />
       </list>
     </recent_temporary>
   </component>
@@ -382,7 +374,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679837666831</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="JAVA Q UESTION">
+      <created>1680334108260</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1680334108260</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -633,6 +632,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Coding_Blocks_Assignment/Generate_Binary_Strings.java</url>
+          <line>14</line>
+          <properties class="Coding_Blocks_Assignment.Generate_Binary_Strings" method="Generate_string">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/REPLACE_HI.java</url>
+          <line>30</line>
+          <properties class="Recursion.REPLACE_HI" method="func">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="61" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>
