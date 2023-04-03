@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Lexicographically_counting {
     public static void main(String[] args) {
-        int n = 13;
+        int n = 1000;
         ArrayList<Integer> list = new ArrayList<>();
         lexicographicalCounting(n , 0 , list);
         System.out.println(list);
