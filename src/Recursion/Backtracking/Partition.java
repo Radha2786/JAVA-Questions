@@ -5,13 +5,13 @@ import java.util.ArrayList;
 public class Partition {
     public static void main(String[] args) {
         String st = "Radha";
-        part(st , "");
+//        part(st , "");
 //        part2("aab" , new ArrayList<>());
 
-//        ArrayList<ArrayList<String>> ll = new ArrayList<>();
+        ArrayList<ArrayList<String>> ll = new ArrayList<>();
 //
-//        part3(st , new ArrayList<>() , ll);
-//        System.out.println(ll);
+        part3(st , new ArrayList<>() , ll);
+        System.out.println(ll);
     }
 
     static void part(String question , String ans){
@@ -42,7 +42,8 @@ public class Partition {
     static void part3(String question , ArrayList<String> list , ArrayList<ArrayList<String>> ll){
         if(question.isEmpty()){
 //            System.out.println(list);
-            ll.add(new ArrayList<>(list));
+//            ll.add(new ArrayList<>(list));
+            ll.add(list);
             return;
         }
 
