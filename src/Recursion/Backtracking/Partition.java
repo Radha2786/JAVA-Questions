@@ -9,9 +9,11 @@ public class Partition {
 //        part2("aab" , new ArrayList<>());
 
         ArrayList<ArrayList<String>> ll = new ArrayList<>();
-//
-        part3(st , new ArrayList<>() , ll);
+        ArrayList<String> list = new ArrayList<>();
+        System.out.println(list);
+        part3(st , list , ll);
         System.out.println(ll);
+        System.out.println(list);
     }
 
     static void part(String question , String ans){
@@ -42,8 +44,8 @@ public class Partition {
     static void part3(String question , ArrayList<String> list , ArrayList<ArrayList<String>> ll){
         if(question.isEmpty()){
 //            System.out.println(list);
-//            ll.add(new ArrayList<>(list));
-            ll.add(list);
+            ll.add(new ArrayList<>(list));
+//            ll.add(list);
             return;
         }
 
