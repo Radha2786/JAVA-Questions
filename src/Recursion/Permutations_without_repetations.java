@@ -4,7 +4,8 @@ import java.util.ArrayList;
 
 public class Permutations_without_repetations {
     public static void main(String[] args) {
-        String st = "abac";
+//        String st = "abac";
+        String st = "aba";
         ArrayList<String> list = new ArrayList<>();
         permutations(st , "" , list);
         System.out.println(list);

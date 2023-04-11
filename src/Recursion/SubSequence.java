@@ -18,9 +18,9 @@ public class SubSequence {
         }
 
         char ch = question.charAt(0);
-
+        // not choose
         subsequence(question.substring(1) , ans , list);
-
+        // choose
         subsequence(question.substring(1) , ans+ch , list);
 
     }
