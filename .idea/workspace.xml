@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="JAVA Q UESTION">
-      <change afterPath="$PROJECT_DIR$/src/LEETCODE/Optimal_Partition_of_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LEETCODE/Optimal_Partition_of_String2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/Number_of_citizens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/Sum_in_a_matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exams/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exams/BST_Self.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exams/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exams/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exams/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exams/TREE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sliding_window/Maximum_Sum_of_Distinct_Subarrays_With_Length_K_leetcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sliding_window/Optimal_partitioning_of_string_leetcode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,13 +51,13 @@
     &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Optimal_Partition_of_String2">
-    <configuration name="Optimal_Partition_of_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LEETCODE.Optimal_Partition_of_String" />
+  <component name="RunManager" selected="Application.Number_of_citizens">
+    <configuration name="BST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exams.BST" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LEETCODE.*" />
+          <option name="PATTERN" value="Exams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Optimal_Partition_of_String2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LEETCODE.Optimal_Partition_of_String2" />
+    <configuration name="BST_Self" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exams.BST_Self" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LEETCODE.*" />
+          <option name="PATTERN" value="Exams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Permutations" />
+    <configuration name="Binary_Tree_last_day" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exams.Binary_Tree_last_day" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.*" />
+          <option name="PATTERN" value="Exams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Permutations_2nd_leetcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Backtracking.Permutations_2nd_leetcode" />
+    <configuration name="Number_of_citizens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contests.Number_of_citizens" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.Backtracking.*" />
+          <option name="PATTERN" value="Contests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Permutations_without_repetations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Permutations_without_repetations" />
+    <configuration name="Sum_in_a_matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contests.Sum_in_a_matrix" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.*" />
+          <option name="PATTERN" value="Contests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Optimal_Partition_of_String2" />
-        <item itemvalue="Application.Optimal_Partition_of_String" />
-        <item itemvalue="Application.Permutations_2nd_leetcode" />
-        <item itemvalue="Application.Permutations" />
-        <item itemvalue="Application.Permutations_without_repetations" />
+        <item itemvalue="Application.Number_of_citizens" />
+        <item itemvalue="Application.Sum_in_a_matrix" />
+        <item itemvalue="Application.BST_Self" />
+        <item itemvalue="Application.BST" />
+        <item itemvalue="Application.Binary_Tree_last_day" />
       </list>
     </recent_temporary>
   </component>
@@ -403,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681181082097</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="JAVA Q UESTION">
+      <created>1681631796239</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1681631796239</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -781,6 +796,51 @@
           </properties>
           <option name="timeStamp" value="82" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Sliding_window/Maximum_Sum_of_Distinct_Subarrays_With_Length_K_leetcode.java</url>
+          <line>4</line>
+          <properties class="Sliding_window.Maximum_Sum_of_Distinct_Subarrays_With_Length_K_leetcode" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Exams/TREE.java</url>
+          <line>33</line>
+          <properties class="Exams.TREE" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Exams/TREE.java</url>
+          <line>20</line>
+          <properties class="Exams.TREE.BinaryTree" method="buildTree">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Exams/TREE.java</url>
+          <line>10</line>
+          <properties class="Exams.TREE.Node" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Contests/Number_of_citizens.java</url>
+          <line>13</line>
+          <properties class="Contests.Number_of_citizens" method="Citizens">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>
           <line>100</line>
@@ -905,6 +965,16 @@
           <url>file://$PROJECT_DIR$/src/Arrays/Sorting/Merge_sort.java</url>
           <line>22</line>
           <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exams/TREE.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exams/TREE.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="91" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
