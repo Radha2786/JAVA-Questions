@@ -15,17 +15,26 @@ public class Basics {
 //        arr[1] = new int[]{400 , 500 , 600 , 7000 , 8000};
         Scanner sc = new Scanner(System.in);
         int[][] arr = new int[3][4];
-//        arr[0] = new int[3];
-//        arr[1] = new int[5];
-//        arr[2] = new int[7];
-//        for (int i = 0 ; i < arr.length ; i++){
-//            for(int j = 0 ; j < arr[i].length ; j++)
-//            {
+        arr[0] = new int[3];
+        arr[1] = new int[5];
+        arr[2] = new int[7];
+        for (int i = 0 ; i < arr.length ; i++){
+            for(int j = 0 ; j < arr[i].length ; j++)
+            {
+                arr[i][j] = sc.nextInt();
+            }
+        }
+        for (int i = 0 ; i < arr.length ; i++){
+            for(int j = 0 ; j < arr[i].length ; j++)
+            {
 //                arr[i][j] = sc.nextInt();
-//            }
-//        }
+                System.out.print(arr[i][j]);
+            }
+            System.out.println();
+        }
 
 //        print(arr);
+//        System.out.println(arr);
     }
 
 
