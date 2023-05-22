@@ -5,20 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="JAVA Q UESTION">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Sorting/Insertion_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Two_D/Jagged_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Two_D/Matrix_waveform.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Two_D/Search_in_2d_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Two_D/Search_in_2d_matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Two_D/SubArray_sums_divisible_by_k.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding_Blocks_Assignment/Calculate_The_Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding_Blocks_Assignment/Product_of_array_except_itself.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LEETCODE/CountPrimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/CanYouReadThis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/Finding_CB_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/Number_of_citizens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/Sum_in_a_matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exams/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exams/BST_Self.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exams/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exams/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exams/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exams/TREE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sliding_window/Maximum_Sum_of_Distinct_Subarrays_With_Length_K_leetcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sliding_window/Optimal_partitioning_of_string_leetcode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/Two_D/Basics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Two_D/Basics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Time_Complexity/Practical_way.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Time_Complexity/Practical_way.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +51,13 @@
     &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CountPrimes">
-    <configuration name="CanYouReadThis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.CanYouReadThis" />
+  <component name="RunManager" selected="Application.Number_of_citizens">
+    <configuration name="BST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exams.BST" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.*" />
+          <option name="PATTERN" value="Exams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountPrimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LEETCODE.CountPrimes" />
+    <configuration name="BST_Self" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exams.BST_Self" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LEETCODE.*" />
+          <option name="PATTERN" value="Exams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Finding_CB_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.Finding_CB_Numbers" />
+    <configuration name="Binary_Tree_last_day" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exams.Binary_Tree_last_day" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.*" />
+          <option name="PATTERN" value="Exams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Search_in_2d_matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Two_D.Search_in_2d_matrix" />
+    <configuration name="Number_of_citizens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contests.Number_of_citizens" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.Two_D.*" />
+          <option name="PATTERN" value="Contests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubArray_sums_divisible_by_k" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Two_D.SubArray_sums_divisible_by_k" />
+    <configuration name="Sum_in_a_matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contests.Sum_in_a_matrix" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.Two_D.*" />
+          <option name="PATTERN" value="Contests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CountPrimes" />
-        <item itemvalue="Application.Finding_CB_Numbers" />
-        <item itemvalue="Application.CanYouReadThis" />
-        <item itemvalue="Application.SubArray_sums_divisible_by_k" />
-        <item itemvalue="Application.Search_in_2d_matrix" />
+        <item itemvalue="Application.Number_of_citizens" />
+        <item itemvalue="Application.Sum_in_a_matrix" />
+        <item itemvalue="Application.BST_Self" />
+        <item itemvalue="Application.BST" />
+        <item itemvalue="Application.Binary_Tree_last_day" />
       </list>
     </recent_temporary>
   </component>
@@ -421,21 +418,7 @@
       <option name="project" value="LOCAL" />
       <updated>1681631796239</updated>
     </task>
-    <task id="LOCAL-00038" summary="JAVA Q UESTION">
-      <created>1684006228482</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1684006228482</updated>
-    </task>
-    <task id="LOCAL-00039" summary="JAVA Q UESTION">
-      <created>1684319504569</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1684319504569</updated>
-    </task>
-    <option name="localTasksCounter" value="40" />
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -857,69 +840,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="92" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Coding_Blocks_Assignment/Arrays_Binary_Search.java</url>
-          <line>4</line>
-          <properties class="Coding_Blocks_Assignment.Arrays_Binary_Search" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="93" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Coding_Blocks_Assignment/Alex_goes_shopping.java</url>
-          <line>4</line>
-          <properties class="Coding_Blocks_Assignment.Alex_goes_shopping" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="94" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Coding_Blocks_Assignment/Calculate_The_Sum.java</url>
-          <line>4</line>
-          <properties class="Coding_Blocks_Assignment.Calculate_The_Sum" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="95" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Arrays/Sorting/Insertion_sort.java</url>
-          <line>3</line>
-          <properties class="Arrays.Sorting.Insertion_sort" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="96" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Arrays/Two_D/SubArray_sums_divisible_by_k.java</url>
-          <line>9</line>
-          <properties class="Arrays.Two_D.SubArray_sums_divisible_by_k" method="count_of_arrays">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="97" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Strings/Finding_CB_Numbers.java</url>
-          <line>4</line>
-          <properties class="Strings.Finding_CB_Numbers" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="98" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/LEETCODE/CountPrimes.java</url>
-          <line>3</line>
-          <properties class="LEETCODE.CountPrimes" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="99" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>
