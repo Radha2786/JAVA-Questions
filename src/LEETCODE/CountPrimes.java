@@ -6,7 +6,7 @@ public class CountPrimes {
     }
 
     static int countPrimes(int n) {
-return 1;
+        return 1;
     }
 
     static boolean isPrime(int n){
@@ -19,7 +19,14 @@ return 1;
 //        }
 
 //        o(n/2) => o(n)
-        for(int i = 2 ; i < n/2 ; i++){
+//        for(int i = 2 ; i < n/2 ; i++){
+//            if(n % i == 0){
+//                return false;
+//            }
+//        }
+
+//        o(√n)
+        for(int i = 2 ; i * i <= n ; i++){
             if(n % i == 0){
                 return false;
             }
@@ -27,4 +34,6 @@ return 1;
 
         return true;
     }
+
+
 }
