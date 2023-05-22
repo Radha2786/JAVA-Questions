@@ -6,7 +6,7 @@ public class CountPrimes {
     }
 
     static int countPrimes(int n) {
-
+return 1;
     }
 
     static boolean isPrime(int n){
