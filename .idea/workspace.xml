@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="TIME COMPLEXITY">
-      <change afterPath="$PROJECT_DIR$/src/Strings/String_Compression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22-05-2023_15_51__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22-05-2023_15_51__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Strings_Difference_in_Ascii_Codes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LEETCODE/CountPrimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LEETCODE/CountPrimes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +42,13 @@
     &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.String_Compression">
-    <configuration name="BST_Self" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exams.BST_Self" />
+  <component name="RunManager" selected="Application.Strings_Difference_in_Ascii_Codes">
+    <configuration name="Convert_characters_of_a_string_to_opposite_case" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.Convert_characters_of_a_string_to_opposite_case" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exams.*" />
+          <option name="PATTERN" value="Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,19 +69,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number_of_citizens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Contests.Number_of_citizens" />
-      <module name="JAVA_QUESTIONS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Contests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="String_Compression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Strings.String_Compression" />
       <module name="JAVA_QUESTIONS" />
@@ -98,12 +82,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum_in_a_matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Contests.Sum_in_a_matrix" />
+    <configuration name="Strings_Difference_in_Ascii_Codes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.Strings_Difference_in_Ascii_Codes" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Contests.*" />
+          <option name="PATTERN" value="Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Toggle_case" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.Toggle_case" />
+      <module name="JAVA_QUESTIONS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Strings_Difference_in_Ascii_Codes" />
+        <item itemvalue="Application.Toggle_case" />
+        <item itemvalue="Application.Convert_characters_of_a_string_to_opposite_case" />
         <item itemvalue="Application.String_Compression" />
         <item itemvalue="Application.CountPrimes" />
-        <item itemvalue="Application.Number_of_citizens" />
-        <item itemvalue="Application.Sum_in_a_matrix" />
-        <item itemvalue="Application.BST_Self" />
       </list>
     </recent_temporary>
   </component>
@@ -412,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681631796239</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="TIME COMPLEXITY">
+      <created>1684827844177</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1684827844177</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -434,7 +438,8 @@
     <MESSAGE value="Target Sum" />
     <MESSAGE value="VIVEK LOVES ARRAY" />
     <MESSAGE value="JAVA Q UESTION" />
-    <option name="LAST_COMMIT_MESSAGE" value="JAVA Q UESTION" />
+    <MESSAGE value="TIME COMPLEXITY" />
+    <option name="LAST_COMMIT_MESSAGE" value="TIME COMPLEXITY" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -843,6 +848,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Strings/Strings_Difference_in_Ascii_Codes.java</url>
+          <line>3</line>
+          <properties class="Strings.Strings_Difference_in_Ascii_Codes" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="95" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>
