@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="TIME COMPLEXITY">
-      <change afterPath="$PROJECT_DIR$/src/Strings/Playing_with_good_strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LEETCODE/Largest_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Count_Items_Matching_a_Rule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Strings_Remove_Duplicates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,13 +44,26 @@
     &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Playing_with_good_strings">
-    <configuration name="Convert_characters_of_a_string_to_opposite_case" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.Convert_characters_of_a_string_to_opposite_case" />
+  <component name="RunManager" selected="Application.Strings_Remove_Duplicates">
+    <configuration name="Count_Items_Matching_a_Rule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.Count_Items_Matching_a_Rule" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Largest_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LEETCODE.Largest_Number" />
+      <module name="JAVA_QUESTIONS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LEETCODE.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,19 +73,6 @@
     </configuration>
     <configuration name="Playing_with_good_strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Strings.Playing_with_good_strings" />
-      <module name="JAVA_QUESTIONS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="String_Compression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.String_Compression" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Toggle_case" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.Toggle_case" />
+    <configuration name="Strings_Remove_Duplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.Strings_Remove_Duplicates" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Strings_Remove_Duplicates" />
+        <item itemvalue="Application.Count_Items_Matching_a_Rule" />
+        <item itemvalue="Application.Largest_Number" />
         <item itemvalue="Application.Playing_with_good_strings" />
         <item itemvalue="Application.Strings_Difference_in_Ascii_Codes" />
-        <item itemvalue="Application.Toggle_case" />
-        <item itemvalue="Application.Convert_characters_of_a_string_to_opposite_case" />
-        <item itemvalue="Application.String_Compression" />
       </list>
     </recent_temporary>
   </component>
@@ -423,7 +425,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684834400975</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="TIME COMPLEXITY">
+      <created>1684836425971</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1684836425971</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -873,6 +882,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Strings/Strings_Remove_Duplicates.java</url>
+          <line>3</line>
+          <properties class="Strings.Strings_Remove_Duplicates" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="97" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>
