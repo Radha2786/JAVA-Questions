@@ -12,14 +12,14 @@ public class Count_Items_Matching_a_Rule {
         String ruleKey="type";
         String ruleValue="phone";
         int count =0;
-        if(ruleKey=="color"){
+        if(ruleKey.equals("color")){
             for(int i=0;i<items.length ; i++){
                 if(items[i][1].equals(ruleValue)){
                     count++;
                 }
 
             }
-        }else if(ruleKey=="type"){
+        }else if(ruleKey.equals("type")){
             for(int i=0;i<items.length ; i++){
                 if(items[i][0].equals(ruleValue)){
                     count++;

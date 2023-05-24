@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="TIME COMPLEXITY">
-      <change afterPath="$PROJECT_DIR$/src/LEETCODE/Largest_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/Count_Items_Matching_a_Rule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/Strings_Remove_Duplicates.java" afterDir="false" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="Strings_Remove_Duplicates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Strings/Count_Items_Matching_a_Rule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/Count_Items_Matching_a_Rule.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +42,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Strings_Remove_Duplicates">
+  <component name="RunManager" selected="Application.Count_Items_Matching_a_Rule">
     <configuration name="Count_Items_Matching_a_Rule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Strings.Count_Items_Matching_a_Rule" />
       <module name="JAVA_QUESTIONS" />
@@ -135,8 +133,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Strings_Remove_Duplicates" />
         <item itemvalue="Application.Count_Items_Matching_a_Rule" />
+        <item itemvalue="Application.Strings_Remove_Duplicates" />
         <item itemvalue="Application.Largest_Number" />
         <item itemvalue="Application.Playing_with_good_strings" />
         <item itemvalue="Application.Strings_Difference_in_Ascii_Codes" />
@@ -432,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684836425971</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Strings_Remove_Duplicates">
+      <created>1684941604877</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1684941604877</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -455,7 +460,8 @@
     <MESSAGE value="VIVEK LOVES ARRAY" />
     <MESSAGE value="JAVA Q UESTION" />
     <MESSAGE value="TIME COMPLEXITY" />
-    <option name="LAST_COMMIT_MESSAGE" value="TIME COMPLEXITY" />
+    <MESSAGE value="Strings_Remove_Duplicates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Strings_Remove_Duplicates" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
