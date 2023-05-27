@@ -4,9 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="Strings_Remove_Duplicates">
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="Count_Items_Matching_a_Rule(leetcode)">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Maximum_Circular_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Maximum_Subarray_leetcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Axis_Orbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/Buy_Two_Chocolates_6395.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/Extra_Characters_in_a_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/Maximum_Strength_of_a_Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFG/Boolean_Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFG/Boolean_matrix_bruteforce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFG/Boolean_matrix_optimised.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LEETCODE/SetMatrixZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/DI_STRING.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Strings/Count_Items_Matching_a_Rule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/Count_Items_Matching_a_Rule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Searching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Searching.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +55,13 @@
     &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Count_Items_Matching_a_Rule">
-    <configuration name="Count_Items_Matching_a_Rule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.Count_Items_Matching_a_Rule" />
+  <component name="RunManager" selected="Application.Maximum_Strength_of_a_Group">
+    <configuration name="Buy_Two_Chocolates_6395" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contests.Buy_Two_Chocolates_6395" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.*" />
+          <option name="PATTERN" value="Contests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Largest_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LEETCODE.Largest_Number" />
+    <configuration name="Extra_Characters_in_a_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contests.Extra_Characters_in_a_String" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LEETCODE.*" />
+          <option name="PATTERN" value="Contests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Playing_with_good_strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.Playing_with_good_strings" />
+    <configuration name="Maximum_Circular_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Maximum_Circular_Sum" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Strings_Difference_in_Ascii_Codes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.Strings_Difference_in_Ascii_Codes" />
+    <configuration name="Maximum_Strength_of_a_Group" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contests.Maximum_Strength_of_a_Group" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.*" />
+          <option name="PATTERN" value="Contests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Strings_Remove_Duplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.Strings_Remove_Duplicates" />
+    <configuration name="Maximum_Subarray_leetcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Maximum_Subarray_leetcode" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Count_Items_Matching_a_Rule" />
-        <item itemvalue="Application.Strings_Remove_Duplicates" />
-        <item itemvalue="Application.Largest_Number" />
-        <item itemvalue="Application.Playing_with_good_strings" />
-        <item itemvalue="Application.Strings_Difference_in_Ascii_Codes" />
+        <item itemvalue="Application.Maximum_Strength_of_a_Group" />
+        <item itemvalue="Application.Extra_Characters_in_a_String" />
+        <item itemvalue="Application.Buy_Two_Chocolates_6395" />
+        <item itemvalue="Application.Maximum_Circular_Sum" />
+        <item itemvalue="Application.Maximum_Subarray_leetcode" />
       </list>
     </recent_temporary>
   </component>
@@ -437,7 +450,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684941604877</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Count_Items_Matching_a_Rule(leetcode)">
+      <created>1684954872153</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1684954872153</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -461,7 +481,8 @@
     <MESSAGE value="JAVA Q UESTION" />
     <MESSAGE value="TIME COMPLEXITY" />
     <MESSAGE value="Strings_Remove_Duplicates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Strings_Remove_Duplicates" />
+    <MESSAGE value="Count_Items_Matching_a_Rule(leetcode)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Count_Items_Matching_a_Rule(leetcode)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -898,6 +919,42 @@
           </properties>
           <option name="timeStamp" value="97" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Arrays/Maximum_Circular_Sum.java</url>
+          <line>3</line>
+          <properties class="Arrays.Maximum_Circular_Sum" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Arrays/Maximum_Circular_Sum.java</url>
+          <line>37</line>
+          <properties class="Arrays.Maximum_Circular_Sum" method="KadaneAlgo">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Contests/Extra_Characters_in_a_String.java</url>
+          <line>4</line>
+          <properties class="Contests.Extra_Characters_in_a_String" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Contests/Maximum_Strength_of_a_Group.java</url>
+          <line>4</line>
+          <properties class="Contests.Maximum_Strength_of_a_Group" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>
           <line>100</line>
@@ -1032,6 +1089,16 @@
           <url>file://$PROJECT_DIR$/src/Exams/TREE.java</url>
           <line>4</line>
           <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OOPS/School.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/Maximum_Subarray_leetcode.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="99" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
