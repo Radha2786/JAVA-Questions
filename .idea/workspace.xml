@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="leetcode_contest + axis orbit rule">
-      <change afterPath="$PROJECT_DIR$/src/Coding_Blocks_Assignment/Maximum_sum_path_in_2_arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contests/Remove_Trailing_Zeros_From_a_String.java" afterDir="false" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="leetcode_maximum sum path in 2 arrays">
+      <change afterPath="$PROJECT_DIR$/src/Coding_Blocks_Assignment/Next_Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LEETCODE/Count_Prime_in_range.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,13 +43,13 @@
     &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Maximum_sum_path_in_2_arrays">
-    <configuration name="Buy_Two_Chocolates_6395" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Contests.Buy_Two_Chocolates_6395" />
+  <component name="RunManager" selected="Application.Count_Prime_in_range">
+    <configuration name="CountPrimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LEETCODE.CountPrimes" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Contests.*" />
+          <option name="PATTERN" value="LEETCODE.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Extra_Characters_in_a_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Contests.Extra_Characters_in_a_String" />
+    <configuration name="Count_Prime_in_range" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LEETCODE.Count_Prime_in_range" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Contests.*" />
+          <option name="PATTERN" value="LEETCODE.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maximum_Strength_of_a_Group" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Contests.Maximum_Strength_of_a_Group" />
+    <configuration name="Count_Primes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LEETCODE.Count_Primes" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Contests.*" />
+          <option name="PATTERN" value="LEETCODE.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Remove_Trailing_Zeros_From_a_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Contests.Remove_Trailing_Zeros_From_a_String" />
+    <configuration name="Next_Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coding_Blocks_Assignment.Next_Permutation" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Contests.*" />
+          <option name="PATTERN" value="Coding_Blocks_Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Count_Prime_in_range" />
+        <item itemvalue="Application.Count_Primes" />
+        <item itemvalue="Application.CountPrimes" />
+        <item itemvalue="Application.Next_Permutation" />
         <item itemvalue="Application.Maximum_sum_path_in_2_arrays" />
-        <item itemvalue="Application.Remove_Trailing_Zeros_From_a_String" />
-        <item itemvalue="Application.Maximum_Strength_of_a_Group" />
-        <item itemvalue="Application.Extra_Characters_in_a_String" />
-        <item itemvalue="Application.Buy_Two_Chocolates_6395" />
       </list>
     </recent_temporary>
   </component>
@@ -452,7 +452,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685203804152</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="leetcode_maximum sum path in 2 arrays">
+      <created>1685273497498</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1685273497498</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -478,7 +485,8 @@
     <MESSAGE value="Strings_Remove_Duplicates" />
     <MESSAGE value="Count_Items_Matching_a_Rule(leetcode)" />
     <MESSAGE value="leetcode_contest + axis orbit rule" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode_contest + axis orbit rule" />
+    <MESSAGE value="leetcode_maximum sum path in 2 arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode_maximum sum path in 2 arrays" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -968,6 +976,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LEETCODE/Count_Prime_in_range.java</url>
+          <line>10</line>
+          <properties class="LEETCODE.Count_Prime_in_range" method="primeSeives">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="106" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>
