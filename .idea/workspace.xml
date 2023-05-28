@@ -4,22 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="Count_Items_Matching_a_Rule(leetcode)">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Maximum_Circular_Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Maximum_Subarray_leetcode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Axis_Orbit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contests/Buy_Two_Chocolates_6395.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contests/Extra_Characters_in_a_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contests/Maximum_Strength_of_a_Group.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GFG/Boolean_Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GFG/Boolean_matrix_bruteforce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GFG/Boolean_matrix_optimised.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LEETCODE/SetMatrixZeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/DI_STRING.java" afterDir="false" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="leetcode_contest + axis orbit rule">
+      <change afterPath="$PROJECT_DIR$/src/Coding_Blocks_Assignment/Maximum_sum_path_in_2_arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/Remove_Trailing_Zeros_From_a_String.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/Searching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Searching.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +43,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Maximum_Strength_of_a_Group">
+  <component name="RunManager" selected="Application.Maximum_sum_path_in_2_arrays">
     <configuration name="Buy_Two_Chocolates_6395" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Contests.Buy_Two_Chocolates_6395" />
       <module name="JAVA_QUESTIONS" />
@@ -82,19 +70,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maximum_Circular_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Maximum_Circular_Sum" />
-      <module name="JAVA_QUESTIONS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Maximum_Strength_of_a_Group" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Contests.Maximum_Strength_of_a_Group" />
       <module name="JAVA_QUESTIONS" />
@@ -108,12 +83,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maximum_Subarray_leetcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Maximum_Subarray_leetcode" />
+    <configuration name="Maximum_sum_path_in_2_arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coding_Blocks_Assignment.Maximum_sum_path_in_2_arrays" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Coding_Blocks_Assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Remove_Trailing_Zeros_From_a_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contests.Remove_Trailing_Zeros_From_a_String" />
+      <module name="JAVA_QUESTIONS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Contests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Maximum_sum_path_in_2_arrays" />
+        <item itemvalue="Application.Remove_Trailing_Zeros_From_a_String" />
         <item itemvalue="Application.Maximum_Strength_of_a_Group" />
         <item itemvalue="Application.Extra_Characters_in_a_String" />
         <item itemvalue="Application.Buy_Two_Chocolates_6395" />
-        <item itemvalue="Application.Maximum_Circular_Sum" />
-        <item itemvalue="Application.Maximum_Subarray_leetcode" />
       </list>
     </recent_temporary>
   </component>
@@ -457,7 +445,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684954872153</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="leetcode_contest + axis orbit rule">
+      <created>1685203804152</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1685203804152</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -482,7 +477,8 @@
     <MESSAGE value="TIME COMPLEXITY" />
     <MESSAGE value="Strings_Remove_Duplicates" />
     <MESSAGE value="Count_Items_Matching_a_Rule(leetcode)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Count_Items_Matching_a_Rule(leetcode)" />
+    <MESSAGE value="leetcode_contest + axis orbit rule" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode_contest + axis orbit rule" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -954,6 +950,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Contests/Remove_Trailing_Zeros_From_a_String.java</url>
+          <line>4</line>
+          <properties class="Contests.Remove_Trailing_Zeros_From_a_String" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Coding_Blocks_Assignment/Maximum_sum_path_in_2_arrays.java</url>
+          <line>3</line>
+          <properties class="Coding_Blocks_Assignment.Maximum_sum_path_in_2_arrays" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="105" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>
