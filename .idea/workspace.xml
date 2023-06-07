@@ -4,10 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="leetcode_maximum sum path in 2 arrays">
-      <change afterPath="$PROJECT_DIR$/src/Coding_Blocks_Assignment/Next_Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LEETCODE/Count_Prime_in_range.java" afterDir="false" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/AxisOrbitPc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic/DynamicQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic/DynamicStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LEETCODE/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Family.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Function_Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QUEUE/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QUEUE/MeraQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Print_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rivision_Recursion/Generate_Paranthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rivision_Recursion/Letter_Combination_of_a_phone_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rivision_Recursion/Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rivision_Recursion/Possible_Path_to_reach_destination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rivision_Recursion/Print_Path.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rivision_Recursion/Recursion_Twins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rivision_Recursion/Subset_problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rivision_Recursion/Tossing_N_coins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/MeraStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/Queue_using_stacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/Reverse_Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/Reverse_Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/Stack_using_queues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/count_di_strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22-05-2023_15_51_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22-05-2023_15_51__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Axis_Orbit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Axis_Orbit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPS/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/School.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Permutations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +75,13 @@
     &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Count_Prime_in_range">
-    <configuration name="CountPrimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LEETCODE.CountPrimes" />
+  <component name="RunManager" selected="Application.Letter_Combination_of_a_phone_number">
+    <configuration name="Letter_Combination_of_a_phone_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rivision_Recursion.Letter_Combination_of_a_phone_number" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LEETCODE.*" />
+          <option name="PATTERN" value="Rivision_Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Count_Prime_in_range" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LEETCODE.Count_Prime_in_range" />
+    <configuration name="Print_Path" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rivision_Recursion.Print_Path" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LEETCODE.*" />
+          <option name="PATTERN" value="Rivision_Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Count_Primes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LEETCODE.Count_Primes" />
+    <configuration name="Rivision_Recursion.Generate_Paranthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rivision_Recursion.Generate_Paranthesis" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LEETCODE.*" />
+          <option name="PATTERN" value="Rivision_Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maximum_sum_path_in_2_arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coding_Blocks_Assignment.Maximum_sum_path_in_2_arrays" />
+    <configuration name="Rivision_Recursion.Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rivision_Recursion.Permutation" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coding_Blocks_Assignment.*" />
+          <option name="PATTERN" value="Rivision_Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Next_Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coding_Blocks_Assignment.Next_Permutation" />
+    <configuration name="Rivision_Recursion.Possible_Path_to_reach_destination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rivision_Recursion.Possible_Path_to_reach_destination" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coding_Blocks_Assignment.*" />
+          <option name="PATTERN" value="Rivision_Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Count_Prime_in_range" />
-        <item itemvalue="Application.Count_Primes" />
-        <item itemvalue="Application.CountPrimes" />
-        <item itemvalue="Application.Next_Permutation" />
-        <item itemvalue="Application.Maximum_sum_path_in_2_arrays" />
+        <item itemvalue="Application.Letter_Combination_of_a_phone_number" />
+        <item itemvalue="Application.Print_Path" />
+        <item itemvalue="Application.Rivision_Recursion.Permutation" />
+        <item itemvalue="Application.Rivision_Recursion.Generate_Paranthesis" />
+        <item itemvalue="Application.Rivision_Recursion.Possible_Path_to_reach_destination" />
       </list>
     </recent_temporary>
   </component>
@@ -459,7 +491,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685273497498</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Gfg CountPrimes within a range">
+      <created>1685305547731</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1685305547731</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -486,7 +525,8 @@
     <MESSAGE value="Count_Items_Matching_a_Rule(leetcode)" />
     <MESSAGE value="leetcode_contest + axis orbit rule" />
     <MESSAGE value="leetcode_maximum sum path in 2 arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode_maximum sum path in 2 arrays" />
+    <MESSAGE value="Gfg CountPrimes within a range" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gfg CountPrimes within a range" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -985,6 +1025,87 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/Print_Numbers.java</url>
+          <line>6</line>
+          <properties class="Recursion.Print_Numbers" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/Print_Numbers.java</url>
+          <line>25</line>
+          <properties class="Recursion.Print_Numbers" method="search">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LEETCODE/MajorityElement.java</url>
+          <line>4</line>
+          <properties class="LEETCODE.MajorityElement" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Rivision_Recursion/Tossing_N_coins.java</url>
+          <line>19</line>
+          <properties class="Rivision_Recursion.Tossing_N_coins" method="Tossing_Coins2">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Rivision_Recursion/Tossing_N_coins.java</url>
+          <line>3</line>
+          <properties class="Rivision_Recursion.Tossing_N_coins" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Rivision_Recursion/Possible_Path_to_reach_destination.java</url>
+          <line>25</line>
+          <properties class="Rivision_Recursion.Possible_Path_to_reach_destination" method="ways_to_reach2">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Rivision_Recursion/Permutation.java</url>
+          <line>7</line>
+          <properties class="Rivision_Recursion.Permutation" method="Print_Permutation">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Rivision_Recursion/Letter_Combination_of_a_phone_number.java</url>
+          <line>9</line>
+          <properties class="Rivision_Recursion.Letter_Combination_of_a_phone_number" method="Print_combinations">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Rivision_Recursion/Letter_Combination_of_a_phone_number.java</url>
+          <line>3</line>
+          <properties class="Rivision_Recursion.Letter_Combination_of_a_phone_number" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="119" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>

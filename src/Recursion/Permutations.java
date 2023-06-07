@@ -27,9 +27,9 @@ public class Permutations {
         }
         for(int i = 0 ; i < question.length() ; i++){
             String prefix = question.substring(0 , i);
-            String surfix = question.substring(i+1);
+            String suffix = question.substring(i+1);
             char choose = question.charAt(i);
-            permutations(prefix+surfix , ans+choose , list);
+            permutations(prefix+suffix , ans+choose , list);
         }
     }
 }

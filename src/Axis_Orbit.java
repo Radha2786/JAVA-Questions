@@ -1,7 +1,7 @@
 public class Axis_Orbit {
 
     public static void main(String[] args) {
-        String st = "aaa";
+        String st = "radar";
         System.out.println(countPalindromeInString(st));
     }
 

@@ -31,7 +31,7 @@ public class School {
         Student s3 = new Student();
         s2.name = "Radha";
         s2.age = 100;
-        s3.name = "Harsh";
+        s3.name = "Sharma";
         s3.age = 10;
         System.out.println(s2.name + " " + s2.age);   // Radha and 100
         System.out.println(s3.name + " " + s3.age);   // Harsh and 10
