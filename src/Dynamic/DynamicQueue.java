@@ -8,13 +8,12 @@ public class DynamicQueue extends MeraQueue {
         if(isFull()){
             int[] new_arr = new int[arr.length * 2];
 
-            for(int i = 0 ; i < size ; i++){
-                new_arr[i] = arr[front];
-                front = (front + 1) % arr.length;
+            for(int i = 0 ; i < super.arr.length ; i++){
+                int index=(this.front+i)%this.arr.length;
+                new_arr[i] = arr[index];
             }
-
-            front = 0;
             arr = new_arr;
+            this.front = 0;
         }
 
         super.enqueue(data);

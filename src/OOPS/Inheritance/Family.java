@@ -1,8 +1,7 @@
-package OOPS;
+package OOPS.Inheritance;
 
 
-import java.util.ArrayList;
-import java.util.Arrays;
+import OOPS.Inheritance.Child;
 
 public class Family {
     public static void main(String[] args) {
@@ -22,10 +21,13 @@ public class Family {
 
 //        Parent ob = new Child();
 //        System.out.println(ob.name);
-//        ob.display();
+//        ob.display();  //child class ka display aayega kyuki jiska object banate(ya jisko new kiye hai) usi ke blueprint m sabse phle
+//        jake check hota hai
+
 //        ob.Address();
 //        System.out.println(((Child) ob).ageC);
-//        ((Child) ob).games();
+//        ((Child) ob).games();      // parent class m game method h nhi isliye compiler ka muh band karane ke liye
+        // typecast kar diya
 
 //        CASE 3
 //        C -> RV && P -> OB
@@ -46,3 +48,11 @@ public class Family {
 
     }
 }
+
+
+// NOTE: (especially for case 2)= code likhte tym control compiler ke paas hota hai and vo sirf left wali cheej ko execute
+//krta hai  isliye it can only access data memebers of P during compile tym but run tym m Jvm c ke data members ko bhi access
+//kar paayega but compiler ka muh band karane ke liye hum type cast kar dte h
+
+// IN CASE OF METHODS
+//method overloading ka concept aa jata hai inheritance mein

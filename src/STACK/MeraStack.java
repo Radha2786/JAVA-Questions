@@ -58,7 +58,6 @@ public class MeraStack {
         }
 
         System.out.println();
-//        System.out.println(Arrays.toString(arr));
     }
 
 }

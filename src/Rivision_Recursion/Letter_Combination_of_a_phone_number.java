@@ -5,10 +5,13 @@ public class Letter_Combination_of_a_phone_number {
         String digits ="23";
         String[] arr ={"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
         Print_combinations(digits,arr,"");
+        System.out.println(count);
 
     }
+    static int count=0;
     public static void Print_combinations(String digits,String[] arr,String ans){
         if(digits.isEmpty()){
+            count++;
             System.out.print(ans+" ");
             return;
         }

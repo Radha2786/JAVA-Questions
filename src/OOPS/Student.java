@@ -4,6 +4,8 @@ public class Student {
     String name;
     int age;
 
+
+
     public void display(){
         String name = "xyz";
         int age = 100;

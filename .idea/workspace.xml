@@ -4,42 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AxisOrbitPc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dynamic/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dynamic/DynamicQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dynamic/DynamicStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LEETCODE/MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Family.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Function_Overloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QUEUE/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QUEUE/MeraQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Print_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rivision_Recursion/Generate_Paranthesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rivision_Recursion/Letter_Combination_of_a_phone_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rivision_Recursion/Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rivision_Recursion/Possible_Path_to_reach_destination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rivision_Recursion/Print_Path.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rivision_Recursion/Recursion_Twins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rivision_Recursion/Subset_problem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rivision_Recursion/Tossing_N_coins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STACK/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STACK/MeraStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STACK/Queue_using_stacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STACK/Reverse_Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STACK/Reverse_Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STACK/Stack_using_queues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/count_di_strings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22-05-2023_15_51_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22-05-2023_15_51__Changes_.xml" beforeDir="false" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="Recursion_Revision">
+      <change afterPath="$PROJECT_DIR$/src/Contests/Check_if_The_Number_is_Fascinating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/Find_the_Longest_Semi_Repetitive_Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/Lexicographically_Smallest_String_After_Substring_Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/Neither_MinimumnorMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LEETCODE/Longest_common_prefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Inheritance/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Inheritance/StudentClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rivision_Recursion/Boardpath_cb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rivision_Recursion/Lexicographical_counting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rivision_Recursion/Permutations_of_a_given_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rivision_Recursion/Tower_of_Hanoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/NEXT_GRATER_ELEMENT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/NEXT_SMALLER.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/Number_of_Valid_Subarrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/STOCK_SPAN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/Valid_Parentheses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Axis_Orbit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Axis_Orbit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPS/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/School.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Permutations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dynamic/DynamicQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dynamic/DynamicQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPS/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/Inheritance/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPS/Family.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/Inheritance/Family.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPS/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/Inheritance/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPS/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rivision_Recursion/Letter_Combination_of_a_phone_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rivision_Recursion/Letter_Combination_of_a_phone_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rivision_Recursion/Print_Path.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rivision_Recursion/Print_Path.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/STACK/MeraStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/STACK/MeraStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +39,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -75,13 +66,13 @@
     &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Letter_Combination_of_a_phone_number">
-    <configuration name="Letter_Combination_of_a_phone_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rivision_Recursion.Letter_Combination_of_a_phone_number" />
+  <component name="RunManager" selected="Application.StudentClient">
+    <configuration name="Client2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="STACK.Client2" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Rivision_Recursion.*" />
+          <option name="PATTERN" value="STACK.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Print_Path" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rivision_Recursion.Print_Path" />
+    <configuration name="Lexicographically_Smallest_String_After_Substring_Operation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contests.Lexicographically_Smallest_String_After_Substring_Operation" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Rivision_Recursion.*" />
+          <option name="PATTERN" value="Contests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rivision_Recursion.Generate_Paranthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rivision_Recursion.Generate_Paranthesis" />
+    <configuration name="Neither_MinimumnorMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contests.Neither_MinimumnorMaximum" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Rivision_Recursion.*" />
+          <option name="PATTERN" value="Contests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rivision_Recursion.Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rivision_Recursion.Permutation" />
+    <configuration name="StudentClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS.Inheritance.StudentClient" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Rivision_Recursion.*" />
+          <option name="PATTERN" value="OOPS.Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rivision_Recursion.Possible_Path_to_reach_destination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rivision_Recursion.Possible_Path_to_reach_destination" />
+    <configuration name="client2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QUEUE.client2" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Rivision_Recursion.*" />
+          <option name="PATTERN" value="QUEUE.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Letter_Combination_of_a_phone_number" />
-        <item itemvalue="Application.Print_Path" />
-        <item itemvalue="Application.Rivision_Recursion.Permutation" />
-        <item itemvalue="Application.Rivision_Recursion.Generate_Paranthesis" />
-        <item itemvalue="Application.Rivision_Recursion.Possible_Path_to_reach_destination" />
+        <item itemvalue="Application.StudentClient" />
+        <item itemvalue="Application.client2" />
+        <item itemvalue="Application.Client2" />
+        <item itemvalue="Application.Lexicographically_Smallest_String_After_Substring_Operation" />
+        <item itemvalue="Application.Neither_MinimumnorMaximum" />
       </list>
     </recent_temporary>
   </component>
@@ -498,7 +489,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685305547731</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Recursion_Revision">
+      <created>1686144894550</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1686144894550</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -526,7 +524,8 @@
     <MESSAGE value="leetcode_contest + axis orbit rule" />
     <MESSAGE value="leetcode_maximum sum path in 2 arrays" />
     <MESSAGE value="Gfg CountPrimes within a range" />
-    <option name="LAST_COMMIT_MESSAGE" value="Gfg CountPrimes within a range" />
+    <MESSAGE value="Recursion_Revision" />
+    <option name="LAST_COMMIT_MESSAGE" value="Recursion_Revision" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1091,7 +1090,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Rivision_Recursion/Letter_Combination_of_a_phone_number.java</url>
-          <line>9</line>
+          <line>11</line>
           <properties class="Rivision_Recursion.Letter_Combination_of_a_phone_number" method="Print_combinations">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -1106,6 +1105,42 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LEETCODE/Longest_common_prefix.java</url>
+          <line>4</line>
+          <properties class="LEETCODE.Longest_common_prefix" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Contests/Check_if_The_Number_is_Fascinating.java</url>
+          <line>4</line>
+          <properties class="Contests.Check_if_The_Number_is_Fascinating" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Contests/Find_the_Longest_Semi_Repetitive_Substring.java</url>
+          <line>4</line>
+          <properties class="Contests.Find_the_Longest_Semi_Repetitive_Substring" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Contests/Lexicographically_Smallest_String_After_Substring_Operation.java</url>
+          <line>4</line>
+          <properties class="Contests.Lexicographically_Smallest_String_After_Substring_Operation" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="127" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>
