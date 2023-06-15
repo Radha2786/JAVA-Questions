@@ -4,32 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="Recursion_Revision">
-      <change afterPath="$PROJECT_DIR$/src/Contests/Check_if_The_Number_is_Fascinating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contests/Find_the_Longest_Semi_Repetitive_Substring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contests/Lexicographically_Smallest_String_After_Substring_Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contests/Neither_MinimumnorMaximum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LEETCODE/Longest_common_prefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Inheritance/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Inheritance/StudentClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rivision_Recursion/Boardpath_cb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rivision_Recursion/Lexicographical_counting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rivision_Recursion/Permutations_of_a_given_string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rivision_Recursion/Tower_of_Hanoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/NEXT_GRATER_ELEMENT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/NEXT_SMALLER.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/Number_of_Valid_Subarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/STOCK_SPAN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/Valid_Parentheses.java" afterDir="false" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="Inheritance">
+      <change afterPath="$PROJECT_DIR$/src/Contests/FindtheLongestSemiRepetitiveSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/leetcode_2734.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/HISTOGRAM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/Baseball_Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/Daily_Temperatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/NEXT_GRATER_ELEMENT2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/Number_of_NGEs_to_the_right.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_Assignment/FormminimumnumberfromgivenSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_Assignment/KartikHaiyiAndTheCelebrityProblem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dynamic/DynamicQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dynamic/DynamicQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPS/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/Inheritance/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPS/Family.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/Inheritance/Family.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPS/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/Inheritance/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPS/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rivision_Recursion/Letter_Combination_of_a_phone_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rivision_Recursion/Letter_Combination_of_a_phone_number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rivision_Recursion/Print_Path.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rivision_Recursion/Print_Path.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/STACK/MeraStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/STACK/MeraStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Contests/Find_the_Longest_Semi_Repetitive_Substring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Contests/Lexicographically_Smallest_String_After_Substring_Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contests/Lexicographically_Smallest_String_After_Substring_Operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/STACK/Questions/Valid_Parentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/STACK/Questions/Valid_Parentheses.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,13 +55,26 @@
     &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StudentClient">
-    <configuration name="Client2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="STACK.Client2" />
+  <component name="RunManager" selected="Application.FindtheLongestSemiRepetitiveSubstring">
+    <configuration name="Daily_Temperatures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="STACK.Questions.Daily_Temperatures" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="STACK.*" />
+          <option name="PATTERN" value="STACK.Questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindtheLongestSemiRepetitiveSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contests.FindtheLongestSemiRepetitiveSubstring" />
+      <module name="JAVA_QUESTIONS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Contests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Neither_MinimumnorMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Contests.Neither_MinimumnorMaximum" />
+    <configuration name="leetcode_2734" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contests.leetcode_2734" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
@@ -106,25 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPS.Inheritance.StudentClient" />
+    <configuration name="solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contests.solution" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPS.Inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="client2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QUEUE.client2" />
-      <module name="JAVA_QUESTIONS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="QUEUE.*" />
+          <option name="PATTERN" value="Contests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StudentClient" />
-        <item itemvalue="Application.client2" />
-        <item itemvalue="Application.Client2" />
+        <item itemvalue="Application.FindtheLongestSemiRepetitiveSubstring" />
+        <item itemvalue="Application.solution" />
+        <item itemvalue="Application.leetcode_2734" />
         <item itemvalue="Application.Lexicographically_Smallest_String_After_Substring_Operation" />
-        <item itemvalue="Application.Neither_MinimumnorMaximum" />
+        <item itemvalue="Application.Daily_Temperatures" />
       </list>
     </recent_temporary>
   </component>
@@ -496,7 +485,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686144894550</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Inheritance">
+      <created>1686589283505</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1686589283505</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -525,7 +521,8 @@
     <MESSAGE value="leetcode_maximum sum path in 2 arrays" />
     <MESSAGE value="Gfg CountPrimes within a range" />
     <MESSAGE value="Recursion_Revision" />
-    <option name="LAST_COMMIT_MESSAGE" value="Recursion_Revision" />
+    <MESSAGE value="Inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1125,22 +1122,67 @@
           <option name="timeStamp" value="123" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Contests/Find_the_Longest_Semi_Repetitive_Substring.java</url>
-          <line>4</line>
-          <properties class="Contests.Find_the_Longest_Semi_Repetitive_Substring" method="main">
+          <url>file://$PROJECT_DIR$/src/STACK/Questions/NEXT_GRATER_ELEMENT2.java</url>
+          <line>7</line>
+          <properties class="STACK.Questions.NEXT_GRATER_ELEMENT2">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="124" />
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/STACK/Questions/Baseball_Game.java</url>
+          <line>4</line>
+          <properties class="STACK.Questions.Baseball_Game" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/STACK/Questions/Daily_Temperatures.java</url>
+          <line>6</line>
+          <properties class="STACK.Questions.Daily_Temperatures" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="132" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Contests/Lexicographically_Smallest_String_After_Substring_Operation.java</url>
-          <line>4</line>
+          <line>3</line>
           <properties class="Contests.Lexicographically_Smallest_String_After_Substring_Operation" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="127" />
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Contests/leetcode_2734.java</url>
+          <line>3</line>
+          <properties class="Contests.leetcode_2734" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Contests/solution.java</url>
+          <line>4</line>
+          <properties class="Contests.solution" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Contests/solution.java</url>
+          <line>25</line>
+          <properties class="Contests.solution" method="check">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="137" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>
