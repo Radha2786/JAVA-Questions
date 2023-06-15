@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="leetcode Contest questions">
-      <change afterPath="$PROJECT_DIR$/src/QUEUE/QueueUsingStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/Client_of_stackUsingQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/ReverseStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/StackUsingQueue.java" afterDir="false" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="Stack using queue">
+      <change afterPath="$PROJECT_DIR$/src/QUEUE/Client_of_queue_using_stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/MyQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QUEUE/MeraQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QUEUE/MeraQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QUEUE/QueueUsingStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QUEUE/QueueUsingStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/STACK/MeraStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/STACK/MeraStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/STACK/Queue_using_stacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/STACK/Queue_using_stacks.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,20 @@
     &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Client_of_stackUsingQueue">
+  <component name="RunManager" selected="Application.Client_of_queue_using_stack">
+    <configuration name="Client_of_queue_using_stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QUEUE.Client_of_queue_using_stack" />
+      <module name="JAVA_QUESTIONS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QUEUE.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Client_of_stackUsingQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="STACK.Questions.Client_of_stackUsingQueue" />
       <module name="JAVA_QUESTIONS" />
@@ -80,19 +93,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="STACK.Questions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="leetcode_2734" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Contests.leetcode_2734" />
-      <module name="JAVA_QUESTIONS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Contests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client_of_queue_using_stack" />
         <item itemvalue="Application.Client_of_stackUsingQueue" />
         <item itemvalue="Application.ReverseStack" />
         <item itemvalue="Application.FindtheLongestSemiRepetitiveSubstring" />
         <item itemvalue="Application.solution" />
-        <item itemvalue="Application.leetcode_2734" />
       </list>
     </recent_temporary>
   </component>
@@ -491,7 +491,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686819797716</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Stack using queue">
+      <created>1686846180995</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1686846180995</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -522,7 +529,8 @@
     <MESSAGE value="Recursion_Revision" />
     <MESSAGE value="Inheritance" />
     <MESSAGE value="leetcode Contest questions" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode Contest questions" />
+    <MESSAGE value="Stack using queue" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stack using queue" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

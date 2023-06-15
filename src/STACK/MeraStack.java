@@ -5,7 +5,8 @@ import java.util.Arrays;
 public class MeraStack {
 
     protected int[] arr;
-    private int top;
+    public int top;
+//    private int top;
 
     public MeraStack(){
         this.arr = new int[5];
@@ -58,6 +59,9 @@ public class MeraStack {
         }
 
         System.out.println();
+    }
+    public int size() {
+        return top + 1;
     }
 
 }
