@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class MeraQueue {
     protected int[] arr;
-    protected int front;
+    public int front;
     public int size;
 
     public MeraQueue(){
@@ -56,6 +56,10 @@ public class MeraQueue {
 
         return arr[this.front];
 
+    }
+
+    public int size(){
+        return this.size;
     }
 
     public void display(){

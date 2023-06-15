@@ -4,21 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="Inheritance">
-      <change afterPath="$PROJECT_DIR$/src/Contests/FindtheLongestSemiRepetitiveSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contests/leetcode_2734.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contests/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STACK/HISTOGRAM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/Baseball_Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/Daily_Temperatures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/NEXT_GRATER_ELEMENT2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/Number_of_NGEs_to_the_right.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack_Assignment/FormminimumnumberfromgivenSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack_Assignment/KartikHaiyiAndTheCelebrityProblem.java" afterDir="false" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="leetcode Contest questions">
+      <change afterPath="$PROJECT_DIR$/src/QUEUE/QueueUsingStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/Client_of_stackUsingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/ReverseStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/StackUsingQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contests/Find_the_Longest_Semi_Repetitive_Substring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contests/Lexicographically_Smallest_String_After_Substring_Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contests/Lexicographically_Smallest_String_After_Substring_Operation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/STACK/Questions/Valid_Parentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/STACK/Questions/Valid_Parentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QUEUE/MeraQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QUEUE/MeraQueue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +47,9 @@
     &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindtheLongestSemiRepetitiveSubstring">
-    <configuration name="Daily_Temperatures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="STACK.Questions.Daily_Temperatures" />
+  <component name="RunManager" selected="Application.Client_of_stackUsingQueue">
+    <configuration name="Client_of_stackUsingQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="STACK.Questions.Client_of_stackUsingQueue" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
@@ -82,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lexicographically_Smallest_String_After_Substring_Operation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Contests.Lexicographically_Smallest_String_After_Substring_Operation" />
+    <configuration name="ReverseStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="STACK.Questions.ReverseStack" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Contests.*" />
+          <option name="PATTERN" value="STACK.Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client_of_stackUsingQueue" />
+        <item itemvalue="Application.ReverseStack" />
         <item itemvalue="Application.FindtheLongestSemiRepetitiveSubstring" />
         <item itemvalue="Application.solution" />
         <item itemvalue="Application.leetcode_2734" />
-        <item itemvalue="Application.Lexicographically_Smallest_String_After_Substring_Operation" />
-        <item itemvalue="Application.Daily_Temperatures" />
       </list>
     </recent_temporary>
   </component>
@@ -492,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686589283505</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="leetcode Contest questions">
+      <created>1686819797716</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1686819797716</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -522,7 +521,8 @@
     <MESSAGE value="Gfg CountPrimes within a range" />
     <MESSAGE value="Recursion_Revision" />
     <MESSAGE value="Inheritance" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance" />
+    <MESSAGE value="leetcode Contest questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode Contest questions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
