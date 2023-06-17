@@ -61,7 +61,7 @@ public class MeraStack {
         System.out.println();
     }
     public int size() {
-        return top + 1;
+        return top;
     }
 
 }

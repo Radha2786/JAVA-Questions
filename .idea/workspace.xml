@@ -4,13 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="Stack using queue">
-      <change afterPath="$PROJECT_DIR$/src/QUEUE/Client_of_queue_using_stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STACK/MyQueue.java" afterDir="false" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment=" queue using stack">
+      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/Car_Fleet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/Min_Stack_155.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/Next_greater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/Pattern_132.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/RemoveAllAdjacentDuplicatesInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/The_Celebrity_Problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_Assignment/Histogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_Assignment/NextGreaterElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_Assignment/Stock_Span.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/QUEUE/QueueUsingStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QUEUE/QueueUsingStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/STACK/MeraStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/STACK/MeraStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/STACK/Queue_using_stacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/STACK/Queue_using_stacks.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +53,13 @@
     &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Client_of_queue_using_stack">
-    <configuration name="Client_of_queue_using_stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QUEUE.Client_of_queue_using_stack" />
+  <component name="RunManager" selected="Application.RemoveAllAdjacentDuplicatesInString">
+    <configuration name="Histogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack_Assignment.Histogram" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="QUEUE.*" />
+          <option name="PATTERN" value="Stack_Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,8 +67,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client_of_stackUsingQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="STACK.Questions.Client_of_stackUsingQueue" />
+    <configuration name="NextGreaterElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack_Assignment.NextGreaterElement" />
+      <module name="JAVA_QUESTIONS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack_Assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveAllAdjacentDuplicatesInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="STACK.Questions.RemoveAllAdjacentDuplicatesInString" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
@@ -74,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindtheLongestSemiRepetitiveSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Contests.FindtheLongestSemiRepetitiveSubstring" />
+    <configuration name="Stock_Span" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack_Assignment.Stock_Span" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Contests.*" />
+          <option name="PATTERN" value="Stack_Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,25 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="STACK.Questions.ReverseStack" />
+    <configuration name="The_Celebrity_Problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="STACK.Questions.The_Celebrity_Problem" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="STACK.Questions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Contests.solution" />
-      <module name="JAVA_QUESTIONS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Contests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client_of_queue_using_stack" />
-        <item itemvalue="Application.Client_of_stackUsingQueue" />
-        <item itemvalue="Application.ReverseStack" />
-        <item itemvalue="Application.FindtheLongestSemiRepetitiveSubstring" />
-        <item itemvalue="Application.solution" />
+        <item itemvalue="Application.RemoveAllAdjacentDuplicatesInString" />
+        <item itemvalue="Application.Histogram" />
+        <item itemvalue="Application.Stock_Span" />
+        <item itemvalue="Application.NextGreaterElement" />
+        <item itemvalue="Application.The_Celebrity_Problem" />
       </list>
     </recent_temporary>
   </component>
@@ -154,13 +160,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662633220624</updated>
-    </task>
-    <task id="LOCAL-00001" summary="agga">
-      <created>1662635553680</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1662635553680</updated>
     </task>
     <task id="LOCAL-00002" summary="agga">
       <created>1662908726597</created>
@@ -498,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686846180995</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary=" queue using stack">
+      <created>1686852655172</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1686852655172</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -530,7 +536,8 @@
     <MESSAGE value="Inheritance" />
     <MESSAGE value="leetcode Contest questions" />
     <MESSAGE value="Stack using queue" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stack using queue" />
+    <MESSAGE value=" queue using stack" />
+    <option name="LAST_COMMIT_MESSAGE" value=" queue using stack" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1191,6 +1198,60 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/STACK/Questions/Next_greater.java</url>
+          <line>8</line>
+          <properties class="STACK.Questions.Next_greater" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/STACK/Questions/Next_greater.java</url>
+          <line>26</line>
+          <properties class="STACK.Questions.Next_greater" method="nextGrater">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Stack_Assignment/NextGreaterElement.java</url>
+          <line>4</line>
+          <properties class="Stack_Assignment.NextGreaterElement" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Stack_Assignment/Stock_Span.java</url>
+          <line>3</line>
+          <properties class="Stack_Assignment.Stock_Span" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Stack_Assignment/Histogram.java</url>
+          <line>3</line>
+          <properties class="Stack_Assignment.Histogram" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/STACK/Questions/RemoveAllAdjacentDuplicatesInString.java</url>
+          <line>5</line>
+          <properties class="STACK.Questions.RemoveAllAdjacentDuplicatesInString" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="143" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>

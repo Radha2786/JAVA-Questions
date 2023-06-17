@@ -4,6 +4,9 @@ package QUEUE;
 //Dequeue = O(1);
 import Dynamic.DynamicQueue;
 import Dynamic.DynamicStack;
+
+import java.util.Arrays;
+
 public class QueueUsingStack {
   // creating data member (stack) of DynamicStack
        private DynamicStack data;
@@ -43,12 +46,13 @@ public class QueueUsingStack {
         this.data.push(item);
     }
     public int dequeue() throws Exception {
+        display();
         DynamicStack temp = new DynamicStack();
-        while(this.data.size()!=1){
+        while(this.data.size() > 1){
             temp.push(this.data.pop());
         }
         int x= this.data.pop();
-        while(temp.size()!=0){
+        while(temp.size() > 0){
             this.data.push(temp.pop());
         }
         return x;
