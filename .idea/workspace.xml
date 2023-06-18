@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment=" queue using stack">
-      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/Car_Fleet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/Min_Stack_155.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/Next_greater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/Pattern_132.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/RemoveAllAdjacentDuplicatesInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/The_Celebrity_Problem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack_Assignment/Histogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack_Assignment/NextGreaterElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack_Assignment/Stock_Span.java" afterDir="false" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment=" stack questions">
+      <change afterPath="$PROJECT_DIR$/src/Contests/FindtheValueofthePartition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/TotalDistanceTraveled.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QUEUE/QueueUsingStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QUEUE/QueueUsingStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/STACK/MeraStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/STACK/MeraStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +44,13 @@
     &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RemoveAllAdjacentDuplicatesInString">
-    <configuration name="Histogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack_Assignment.Histogram" />
+  <component name="RunManager" selected="Application.FindtheValueofthePartition">
+    <configuration name="FindtheValueofthePartition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contests.FindtheValueofthePartition" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stack_Assignment.*" />
+          <option name="PATTERN" value="Contests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextGreaterElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack_Assignment.NextGreaterElement" />
+    <configuration name="Histogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack_Assignment.Histogram" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
@@ -106,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="The_Celebrity_Problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="STACK.Questions.The_Celebrity_Problem" />
+    <configuration name="TotalDistanceTraveled" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contests.TotalDistanceTraveled" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="STACK.Questions.*" />
+          <option name="PATTERN" value="Contests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindtheValueofthePartition" />
+        <item itemvalue="Application.TotalDistanceTraveled" />
         <item itemvalue="Application.RemoveAllAdjacentDuplicatesInString" />
         <item itemvalue="Application.Histogram" />
         <item itemvalue="Application.Stock_Span" />
-        <item itemvalue="Application.NextGreaterElement" />
-        <item itemvalue="Application.The_Celebrity_Problem" />
       </list>
     </recent_temporary>
   </component>
@@ -160,13 +151,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662633220624</updated>
-    </task>
-    <task id="LOCAL-00002" summary="agga">
-      <created>1662908726597</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1662908726597</updated>
     </task>
     <task id="LOCAL-00003" summary="JAVA QUESTION">
       <created>1673952785775</created>
@@ -504,7 +488,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686852655172</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary=" stack questions">
+      <created>1687034346149</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1687034346149</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -537,7 +528,8 @@
     <MESSAGE value="leetcode Contest questions" />
     <MESSAGE value="Stack using queue" />
     <MESSAGE value=" queue using stack" />
-    <option name="LAST_COMMIT_MESSAGE" value=" queue using stack" />
+    <MESSAGE value=" stack questions" />
+    <option name="LAST_COMMIT_MESSAGE" value=" stack questions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1252,6 +1244,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Contests/TotalDistanceTraveled.java</url>
+          <line>3</line>
+          <properties class="Contests.TotalDistanceTraveled" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Contests/FindtheValueofthePartition.java</url>
+          <line>3</line>
+          <properties class="Contests.FindtheValueofthePartition" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="145" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>
