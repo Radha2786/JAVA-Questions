@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment=" stack questions">
-      <change afterPath="$PROJECT_DIR$/src/Contests/FindtheValueofthePartition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contests/TotalDistanceTraveled.java" afterDir="false" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="leetcode contest questions">
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Questions/Middle_of_the_Linked_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/Valid_Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_Assignment/Importance_of_Time.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,13 +47,13 @@
     &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindtheValueofthePartition">
-    <configuration name="FindtheValueofthePartition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Contests.FindtheValueofthePartition" />
+  <component name="RunManager" selected="Application.Valid_Anagram">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.Client" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Contests.*" />
+          <option name="PATTERN" value="LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Histogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack_Assignment.Histogram" />
+    <configuration name="Importance_of_Time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack_Assignment.Importance_of_Time" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
@@ -71,38 +74,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveAllAdjacentDuplicatesInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="STACK.Questions.RemoveAllAdjacentDuplicatesInString" />
+    <configuration name="Middle_of_Linked_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.Questions.Middle_of_Linked_List" />
+      <module name="JAVA_QUESTIONS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkedList.Questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Middle_of_the_Linked_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.Questions.Middle_of_the_Linked_List" />
+      <module name="JAVA_QUESTIONS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkedList.Questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Valid_Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="STACK.Questions.Valid_Anagram" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="STACK.Questions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Stock_Span" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack_Assignment.Stock_Span" />
-      <module name="JAVA_QUESTIONS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stack_Assignment.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TotalDistanceTraveled" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Contests.TotalDistanceTraveled" />
-      <module name="JAVA_QUESTIONS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Contests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindtheValueofthePartition" />
-        <item itemvalue="Application.TotalDistanceTraveled" />
-        <item itemvalue="Application.RemoveAllAdjacentDuplicatesInString" />
-        <item itemvalue="Application.Histogram" />
-        <item itemvalue="Application.Stock_Span" />
+        <item itemvalue="Application.Valid_Anagram" />
+        <item itemvalue="Application.Middle_of_the_Linked_List" />
+        <item itemvalue="Application.Middle_of_Linked_List" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Importance_of_Time" />
       </list>
     </recent_temporary>
   </component>
@@ -151,13 +154,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662633220624</updated>
-    </task>
-    <task id="LOCAL-00003" summary="JAVA QUESTION">
-      <created>1673952785775</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1673952785775</updated>
     </task>
     <task id="LOCAL-00004" summary="JAVA QUESTION">
       <created>1674124928669</created>
@@ -495,7 +491,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687034346149</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="leetcode contest questions">
+      <created>1687083855142</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1687083855142</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -529,7 +532,8 @@
     <MESSAGE value="Stack using queue" />
     <MESSAGE value=" queue using stack" />
     <MESSAGE value=" stack questions" />
-    <option name="LAST_COMMIT_MESSAGE" value=" stack questions" />
+    <MESSAGE value="leetcode contest questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode contest questions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1262,6 +1266,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/STACK/Questions/Valid_Anagram.java</url>
+          <line>4</line>
+          <properties class="STACK.Questions.Valid_Anagram" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="146" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>
