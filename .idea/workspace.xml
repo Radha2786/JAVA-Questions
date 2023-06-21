@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="leetcode contest questions">
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Questions/Middle_of_the_Linked_List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/Valid_Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack_Assignment/Importance_of_Time.java" afterDir="false" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="linkedlist+questions">
+      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/AsteroidCollision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/MaximalRectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,13 +44,13 @@
     &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Valid_Anagram">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.Client" />
+  <component name="RunManager" selected="Application.AsteroidCollision">
+    <configuration name="AsteroidCollision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="STACK.Questions.AsteroidCollision" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList.*" />
+          <option name="PATTERN" value="STACK.Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Importance_of_Time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack_Assignment.Importance_of_Time" />
+    <configuration name="MaximalRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="STACK.Questions.MaximalRectangle" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stack_Assignment.*" />
+          <option name="PATTERN" value="STACK.Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AsteroidCollision" />
+        <item itemvalue="Application.MaximalRectangle" />
         <item itemvalue="Application.Valid_Anagram" />
         <item itemvalue="Application.Middle_of_the_Linked_List" />
         <item itemvalue="Application.Middle_of_Linked_List" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Importance_of_Time" />
       </list>
     </recent_temporary>
   </component>
@@ -154,13 +151,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662633220624</updated>
-    </task>
-    <task id="LOCAL-00004" summary="JAVA QUESTION">
-      <created>1674124928669</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1674124928669</updated>
     </task>
     <task id="LOCAL-00005" summary="JAVA QUESTION">
       <created>1674245239092</created>
@@ -498,7 +488,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687083855142</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="linkedlist+questions">
+      <created>1687248879942</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1687248879942</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -533,7 +530,8 @@
     <MESSAGE value=" queue using stack" />
     <MESSAGE value=" stack questions" />
     <MESSAGE value="leetcode contest questions" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode contest questions" />
+    <MESSAGE value="linkedlist+questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="linkedlist+questions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1275,6 +1273,33 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/STACK/Questions/MaximalRectangle.java</url>
+          <line>5</line>
+          <properties class="STACK.Questions.MaximalRectangle" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/STACK/Questions/MaximalRectangle.java</url>
+          <line>26</line>
+          <properties class="STACK.Questions.MaximalRectangle" method="Histogram">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/STACK/Questions/AsteroidCollision.java</url>
+          <line>4</line>
+          <properties class="STACK.Questions.AsteroidCollision" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="149" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>
