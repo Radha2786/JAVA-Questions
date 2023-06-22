@@ -1,15 +1,15 @@
 package LinkedList;
 
-public class LinkedList {
-
-    class Node{
-        int data;
-        Node next;
-        public Node(int data){
-            this.data = data;
-        }
+class Node{
+    int data;
+    Node next;
+    public Node(int data){
+        this.data = data;
     }
+}
 
+
+public class LinkedList {
     private Node Head;
     private Node Tail;
     private int size;

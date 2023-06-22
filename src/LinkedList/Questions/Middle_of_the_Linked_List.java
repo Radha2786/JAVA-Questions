@@ -1,7 +1,7 @@
 package LinkedList.Questions;
 
 import java.util.List;
- class ListNode {
+class ListNode {
     int val;
     ListNode next;
     ListNode() {}

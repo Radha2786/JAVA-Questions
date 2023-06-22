@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="linkedlist+questions">
-      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/AsteroidCollision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/MaximalRectangle.java" afterDir="false" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="stack questions">
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Cyclic_Linked_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Questions/Cycle_Detection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/Questions/Middle_of_the_Linked_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/Questions/Middle_of_the_Linked_List.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +46,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AsteroidCollision">
+  <component name="RunManager" selected="Application.Cyclic_Linked_List">
     <configuration name="AsteroidCollision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="STACK.Questions.AsteroidCollision" />
       <module name="JAVA_QUESTIONS" />
@@ -58,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximalRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="STACK.Questions.MaximalRectangle" />
+    <configuration name="Cyclic_Linked_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.Cyclic_Linked_List" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="STACK.Questions.*" />
+          <option name="PATTERN" value="LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Middle_of_Linked_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.Questions.Middle_of_Linked_List" />
+    <configuration name="MaximalRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="STACK.Questions.MaximalRectangle" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList.Questions.*" />
+          <option name="PATTERN" value="STACK.Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cyclic_Linked_List" />
         <item itemvalue="Application.AsteroidCollision" />
         <item itemvalue="Application.MaximalRectangle" />
         <item itemvalue="Application.Valid_Anagram" />
         <item itemvalue="Application.Middle_of_the_Linked_List" />
-        <item itemvalue="Application.Middle_of_Linked_List" />
       </list>
     </recent_temporary>
   </component>
@@ -151,13 +153,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662633220624</updated>
-    </task>
-    <task id="LOCAL-00005" summary="JAVA QUESTION">
-      <created>1674245239092</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1674245239092</updated>
     </task>
     <task id="LOCAL-00006" summary="JAVA QUESTION">
       <created>1674500523325</created>
@@ -495,7 +490,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687248879942</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="stack questions">
+      <created>1687358573378</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1687358573378</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -531,7 +533,8 @@
     <MESSAGE value=" stack questions" />
     <MESSAGE value="leetcode contest questions" />
     <MESSAGE value="linkedlist+questions" />
-    <option name="LAST_COMMIT_MESSAGE" value="linkedlist+questions" />
+    <MESSAGE value="stack questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="stack questions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
