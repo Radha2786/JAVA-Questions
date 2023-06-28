@@ -1,9 +1,10 @@
+
 package Stack_Assignment;
 
-import java.util.Scanner;
-import java.util.Stack;
+        import java.util.Scanner;
+        import java.util.Stack;
 
-public class FormminimumnumberfromgivenSequence {
+public class Form_minimum_number_from_given_Sequence {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
@@ -31,5 +32,6 @@ public class FormminimumnumberfromgivenSequence {
             }
 
         }
+        System.out.println(ans);
     }
 }

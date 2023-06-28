@@ -4,12 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="stack questions">
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Cyclic_Linked_List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Questions/Cycle_Detection.java" afterDir="false" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="LinkedList questions">
+      <change afterPath="$PROJECT_DIR$/src/Practice/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/LinkedListClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_Assignment/Firstnegativeintegerineverywindowofsizek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_Assignment/Form_minimum_number_from_given_Sequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_Assignment/Only_Ladders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_Assignment/REVERSE_A_STACK_USING_RECURSION.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_Assignment/Search_Word_in_Monu_Bhaiya_Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_Assignment/Smart_Keypad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_Assignment/TheQueueGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/Questions/Middle_of_the_Linked_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/Questions/Middle_of_the_Linked_List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stack_Assignment/FormminimumnumberfromgivenSequence.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +52,13 @@
     &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Cyclic_Linked_List">
-    <configuration name="AsteroidCollision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="STACK.Questions.AsteroidCollision" />
+  <component name="RunManager" selected="Application.Smart_Keypad">
+    <configuration name="Form_minimum_number_from_given_Sequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack_Assignment.Form_minimum_number_from_given_Sequence" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="STACK.Questions.*" />
+          <option name="PATTERN" value="Stack_Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cyclic_Linked_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.Cyclic_Linked_List" />
+    <configuration name="LinkedListClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.LinkedListClient" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximalRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="STACK.Questions.MaximalRectangle" />
+    <configuration name="Search_Word_in_Monu_Bhaiya_Board" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack_Assignment.Search_Word_in_Monu_Bhaiya_Board" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="STACK.Questions.*" />
+          <option name="PATTERN" value="Stack_Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Middle_of_the_Linked_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.Questions.Middle_of_the_Linked_List" />
+    <configuration name="Smart_Keypad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack_Assignment.Smart_Keypad" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList.Questions.*" />
+          <option name="PATTERN" value="Stack_Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Valid_Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="STACK.Questions.Valid_Anagram" />
+    <configuration name="TheQueueGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack_Assignment.TheQueueGame" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="STACK.Questions.*" />
+          <option name="PATTERN" value="Stack_Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Cyclic_Linked_List" />
-        <item itemvalue="Application.AsteroidCollision" />
-        <item itemvalue="Application.MaximalRectangle" />
-        <item itemvalue="Application.Valid_Anagram" />
-        <item itemvalue="Application.Middle_of_the_Linked_List" />
+        <item itemvalue="Application.Smart_Keypad" />
+        <item itemvalue="Application.Search_Word_in_Monu_Bhaiya_Board" />
+        <item itemvalue="Application.TheQueueGame" />
+        <item itemvalue="Application.Form_minimum_number_from_given_Sequence" />
+        <item itemvalue="Application.LinkedListClient" />
       </list>
     </recent_temporary>
   </component>
@@ -153,13 +159,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662633220624</updated>
-    </task>
-    <task id="LOCAL-00006" summary="JAVA QUESTION">
-      <created>1674500523325</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1674500523325</updated>
     </task>
     <task id="LOCAL-00007" summary="JAVA QUESTION">
       <created>1674590597065</created>
@@ -497,7 +496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687358573378</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="LinkedList questions">
+      <created>1687453064653</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1687453064653</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -534,7 +540,8 @@
     <MESSAGE value="leetcode contest questions" />
     <MESSAGE value="linkedlist+questions" />
     <MESSAGE value="stack questions" />
-    <option name="LAST_COMMIT_MESSAGE" value="stack questions" />
+    <MESSAGE value="LinkedList questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="LinkedList questions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1304,6 +1311,42 @@
           </properties>
           <option name="timeStamp" value="149" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Stack_Assignment/Search_Word_in_Monu_Bhaiya_Board.java</url>
+          <line>30</line>
+          <properties class="Stack_Assignment.Search_Word_in_Monu_Bhaiya_Board" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Stack_Assignment/Search_Word_in_Monu_Bhaiya_Board.java</url>
+          <line>64</line>
+          <properties class="Stack_Assignment.Search_Word_in_Monu_Bhaiya_Board" method="search">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Stack_Assignment/Smart_Keypad.java</url>
+          <line>12</line>
+          <properties class="Stack_Assignment.Smart_Keypad" method="Keypad_combination">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Stack_Assignment/Smart_Keypad.java</url>
+          <line>5</line>
+          <properties class="Stack_Assignment.Smart_Keypad" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>
           <line>100</line>
@@ -1448,6 +1491,11 @@
           <url>file://$PROJECT_DIR$/src/Arrays/Maximum_Subarray_leetcode.java</url>
           <line>9</line>
           <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/STACK/Questions/ReverseStack.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="150" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
