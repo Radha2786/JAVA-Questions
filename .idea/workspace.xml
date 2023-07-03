@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="stack assignment">
-      <change afterPath="$PROJECT_DIR$/src/Contests/LongestEvenOddSubarrayWithThreshold.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Cycle_Removal.java" afterDir="false" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="2 july contest question">
+      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/MaximumScoreofaGoodSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/SlidingWindowMaximum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LongestEvenOddSubarrayWithThreshold">
+  <component name="RunManager" selected="Application.SlidingWindowMaximum">
     <configuration name="LinkedList.Cycle_Removal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LinkedList.Cycle_Removal" />
       <module name="JAVA_QUESTIONS" />
@@ -72,12 +71,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Search_Word_in_Monu_Bhaiya_Board" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack_Assignment.Search_Word_in_Monu_Bhaiya_Board" />
+    <configuration name="MaximumScoreofaGoodSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="STACK.Questions.MaximumScoreofaGoodSubarray" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stack_Assignment.*" />
+          <option name="PATTERN" value="STACK.Questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SlidingWindowMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="STACK.Questions.SlidingWindowMaximum" />
+      <module name="JAVA_QUESTIONS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="STACK.Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,19 +99,6 @@
     </configuration>
     <configuration name="Smart_Keypad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stack_Assignment.Smart_Keypad" />
-      <module name="JAVA_QUESTIONS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stack_Assignment.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TheQueueGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack_Assignment.TheQueueGame" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
@@ -136,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SlidingWindowMaximum" />
+        <item itemvalue="Application.MaximumScoreofaGoodSubarray" />
         <item itemvalue="Application.LongestEvenOddSubarrayWithThreshold" />
         <item itemvalue="Application.LinkedList.Cycle_Removal" />
         <item itemvalue="Application.Smart_Keypad" />
-        <item itemvalue="Application.Search_Word_in_Monu_Bhaiya_Board" />
-        <item itemvalue="Application.TheQueueGame" />
       </list>
     </recent_temporary>
   </component>
@@ -152,13 +151,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662633220624</updated>
-    </task>
-    <task id="LOCAL-00008" summary="JAVA QUESTION">
-      <created>1676138023150</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1676138023150</updated>
     </task>
     <task id="LOCAL-00009" summary="JAVA QUESTION">
       <created>1676138625872</created>
@@ -496,7 +488,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687968547600</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="2 july contest question">
+      <created>1688300606294</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1688300606294</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -535,7 +534,8 @@
     <MESSAGE value="stack questions" />
     <MESSAGE value="LinkedList questions" />
     <MESSAGE value="stack assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="stack assignment" />
+    <MESSAGE value="2 july contest question" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 july contest question" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1349,6 +1349,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/STACK/Questions/SlidingWindowMaximum.java</url>
+          <line>5</line>
+          <properties class="STACK.Questions.SlidingWindowMaximum" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/STACK/Questions/SlidingWindowMaximum.java</url>
+          <line>11</line>
+          <properties class="STACK.Questions.SlidingWindowMaximum" method="MaxWindow">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="158" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>
