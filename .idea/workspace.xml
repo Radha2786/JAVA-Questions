@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="2 july contest question">
-      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/MaximumScoreofaGoodSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/SlidingWindowMaximum.java" afterDir="false" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="SlidingWindowMaximum(Stack question)">
+      <change afterPath="$PROJECT_DIR$/src/LEETCODE/AddStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LEETCODE/Palindrome_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Questions/LLOddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_Assignment/Girlfriends_Derangements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_Assignment/KartikBhaiyaAndTheCelebrityProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_Assignment/Kartik_Sir_and_Coding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_Assignment/MappedStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_Assignment/New_Permutation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,13 +50,13 @@
     &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SlidingWindowMaximum">
-    <configuration name="LinkedList.Cycle_Removal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.Cycle_Removal" />
+  <component name="RunManager" selected="Application.AddStrings">
+    <configuration name="AddStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LEETCODE.AddStrings" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList.*" />
+          <option name="PATTERN" value="LEETCODE.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,51 +64,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestEvenOddSubarrayWithThreshold" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Contests.LongestEvenOddSubarrayWithThreshold" />
-      <module name="JAVA_QUESTIONS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Contests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaximumScoreofaGoodSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="STACK.Questions.MaximumScoreofaGoodSubarray" />
-      <module name="JAVA_QUESTIONS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="STACK.Questions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SlidingWindowMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="STACK.Questions.SlidingWindowMaximum" />
-      <module name="JAVA_QUESTIONS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="STACK.Questions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Smart_Keypad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack_Assignment.Smart_Keypad" />
+    <configuration name="Girlfriends_Derangements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack_Assignment.Girlfriends_Derangements" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Stack_Assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kartik_Sir_and_Coding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack_Assignment.Kartik_Sir_and_Coding" />
+      <module name="JAVA_QUESTIONS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack_Assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MappedStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack_Assignment.MappedStrings" />
+      <module name="JAVA_QUESTIONS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack_Assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindrome_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LEETCODE.Palindrome_Number" />
+      <module name="JAVA_QUESTIONS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LEETCODE.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SlidingWindowMaximum" />
-        <item itemvalue="Application.MaximumScoreofaGoodSubarray" />
-        <item itemvalue="Application.LongestEvenOddSubarrayWithThreshold" />
-        <item itemvalue="Application.LinkedList.Cycle_Removal" />
-        <item itemvalue="Application.Smart_Keypad" />
+        <item itemvalue="Application.AddStrings" />
+        <item itemvalue="Application.Palindrome_Number" />
+        <item itemvalue="Application.Girlfriends_Derangements" />
+        <item itemvalue="Application.MappedStrings" />
+        <item itemvalue="Application.Kartik_Sir_and_Coding" />
       </list>
     </recent_temporary>
   </component>
@@ -151,13 +157,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662633220624</updated>
-    </task>
-    <task id="LOCAL-00009" summary="JAVA QUESTION">
-      <created>1676138625872</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1676138625872</updated>
     </task>
     <task id="LOCAL-00010" summary="JAVA QUESTION">
       <created>1676211144209</created>
@@ -495,7 +494,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688300606294</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="SlidingWindowMaximum(Stack question)">
+      <created>1688404160686</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1688404160686</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -510,7 +516,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="agga" />
     <MESSAGE value="INTRODUCTION TO BACKTRACKING" />
     <MESSAGE value="Permutations" />
     <MESSAGE value="JAVA QUESTION" />
@@ -535,7 +540,8 @@
     <MESSAGE value="LinkedList questions" />
     <MESSAGE value="stack assignment" />
     <MESSAGE value="2 july contest question" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 july contest question" />
+    <MESSAGE value="SlidingWindowMaximum(Stack question)" />
+    <option name="LAST_COMMIT_MESSAGE" value="SlidingWindowMaximum(Stack question)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1368,6 +1374,24 @@
           </properties>
           <option name="timeStamp" value="158" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LEETCODE/Palindrome_Number.java</url>
+          <line>3</line>
+          <properties class="LEETCODE.Palindrome_Number" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LEETCODE/AddStrings.java</url>
+          <line>3</line>
+          <properties class="LEETCODE.AddStrings" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>
           <line>100</line>
@@ -1517,6 +1541,11 @@
           <url>file://$PROJECT_DIR$/src/STACK/Questions/ReverseStack.java</url>
           <line>21</line>
           <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LEETCODE/AddStrings.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="160" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
