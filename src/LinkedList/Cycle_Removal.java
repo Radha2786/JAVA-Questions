@@ -1,7 +1,4 @@
 package LinkedList;
-
-import LinkedList.LinkedList;
-
 public class Cycle_Removal {
     public static void main(String[] args) throws Exception {
         LinkedList list = new LinkedList();

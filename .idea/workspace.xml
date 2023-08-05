@@ -4,16 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="SlidingWindowMaximum(Stack question)">
-      <change afterPath="$PROJECT_DIR$/src/LEETCODE/AddStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LEETCODE/Palindrome_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Questions/LLOddEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack_Assignment/Girlfriends_Derangements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack_Assignment/KartikBhaiyaAndTheCelebrityProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack_Assignment/Kartik_Sir_and_Coding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack_Assignment/MappedStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack_Assignment/New_Permutation.java" afterDir="false" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="Add Two strings leetcode">
+      <change afterPath="$PROJECT_DIR$/src/Coding_Blocks_Assignment/Dequeue_efficient_queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/Account_Balance_After_Rounded_Purchase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/Count_Complete_Subarrays_in_an_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/MinimumIndexofaValidSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/Number_of_Employees_Who_Met_the_Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contests/SumofSquaresofSpecialElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Questions/Insert_Greatest_Common_Divisors_in_Linked_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Questions/Intersection_of_ll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Questions/Kth_element_from_last_in_linked_list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Questions/RemoveLinkedListElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Questions/Sum_of_two_Linked_Lists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Questions/Triplet_from_three_linked_lists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/FindtheHighestAltitude.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trees/Average_of_Levels_in_Binary_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trees/Binary_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trees/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trees/Diameter_of_tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trees/Level_Order_Traversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trees/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trees/Search_in_Binary_Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/Cycle_Removal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/Cycle_Removal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/Cyclic_Linked_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/Cyclic_Linked_List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/Questions/LLOddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/Questions/LLOddEven.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +68,18 @@
     &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AddStrings">
-    <configuration name="AddStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LEETCODE.AddStrings" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="LinkedList" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Insert_Greatest_Common_Divisors_in_Linked_List">
+    <configuration name="Account_Balance_After_Rounded_Purchase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contests.Account_Balance_After_Rounded_Purchase" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LEETCODE.*" />
+          <option name="PATTERN" value="Contests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Girlfriends_Derangements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack_Assignment.Girlfriends_Derangements" />
+    <configuration name="Count_Complete_Subarrays_in_an_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contests.Count_Complete_Subarrays_in_an_Array" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stack_Assignment.*" />
+          <option name="PATTERN" value="Contests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kartik_Sir_and_Coding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack_Assignment.Kartik_Sir_and_Coding" />
+    <configuration name="Insert_Greatest_Common_Divisors_in_Linked_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.Questions.Insert_Greatest_Common_Divisors_in_Linked_List" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stack_Assignment.*" />
+          <option name="PATTERN" value="LinkedList.Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MappedStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack_Assignment.MappedStrings" />
+    <configuration name="Level_Order" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trees.Level_Order" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stack_Assignment.*" />
+          <option name="PATTERN" value="Trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LEETCODE.Palindrome_Number" />
+    <configuration name="Level_Order_Traversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trees.Level_Order_Traversal" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LEETCODE.*" />
+          <option name="PATTERN" value="Trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AddStrings" />
-        <item itemvalue="Application.Palindrome_Number" />
-        <item itemvalue="Application.Girlfriends_Derangements" />
-        <item itemvalue="Application.MappedStrings" />
-        <item itemvalue="Application.Kartik_Sir_and_Coding" />
+        <item itemvalue="Application.Insert_Greatest_Common_Divisors_in_Linked_List" />
+        <item itemvalue="Application.Account_Balance_After_Rounded_Purchase" />
+        <item itemvalue="Application.Count_Complete_Subarrays_in_an_Array" />
+        <item itemvalue="Application.Level_Order_Traversal" />
+        <item itemvalue="Application.Level_Order" />
       </list>
     </recent_temporary>
   </component>
@@ -157,13 +180,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662633220624</updated>
-    </task>
-    <task id="LOCAL-00010" summary="JAVA QUESTION">
-      <created>1676211144209</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1676211144209</updated>
     </task>
     <task id="LOCAL-00011" summary="JAVA QUESTION">
       <created>1676215788123</created>
@@ -501,7 +517,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688404160686</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Add Two strings leetcode">
+      <created>1688593198001</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1688593198001</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -516,7 +539,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="INTRODUCTION TO BACKTRACKING" />
     <MESSAGE value="Permutations" />
     <MESSAGE value="JAVA QUESTION" />
     <MESSAGE value="Target Sum" />
@@ -541,7 +563,8 @@
     <MESSAGE value="stack assignment" />
     <MESSAGE value="2 july contest question" />
     <MESSAGE value="SlidingWindowMaximum(Stack question)" />
-    <option name="LAST_COMMIT_MESSAGE" value="SlidingWindowMaximum(Stack question)" />
+    <MESSAGE value="Add Two strings leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Two strings leetcode" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1392,6 +1415,123 @@
           </properties>
           <option name="timeStamp" value="162" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/STACK/Questions/FindtheHighestAltitude.java</url>
+          <line>4</line>
+          <properties class="STACK.Questions.FindtheHighestAltitude" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/STACK/Questions/FindtheHighestAltitude.java</url>
+          <line>8</line>
+          <properties class="STACK.Questions.FindtheHighestAltitude" method="largestAltitude">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LinkedList/Questions/RemoveLinkedListElements.java</url>
+          <line>25</line>
+          <properties class="LinkedList.Questions.RemoveLinkedListElements" method="removeElements">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LinkedList/Questions/RemoveLinkedListElements.java</url>
+          <line>7</line>
+          <properties class="LinkedList.Questions.RemoveLinkedListElements" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LinkedList/Questions/Intersection_of_ll.java</url>
+          <line>21</line>
+          <properties class="LinkedList.Questions.Intersection_of_ll" method="Intersection">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LinkedList/Questions/Intersection_of_ll.java</url>
+          <line>7</line>
+          <properties class="LinkedList.Questions.Intersection_of_ll" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LinkedList/Questions/Triplet_from_three_linked_lists.java</url>
+          <line>31</line>
+          <properties class="LinkedList.Questions.Triplet_from_three_linked_lists" method="sum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LinkedList/Questions/Triplet_from_three_linked_lists.java</url>
+          <line>8</line>
+          <properties class="LinkedList.Questions.Triplet_from_three_linked_lists" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Trees/Level_Order_Traversal.java</url>
+          <line>8</line>
+          <properties class="Trees.Level_Order_Traversal" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Trees/Level_Order_Traversal.java</url>
+          <line>81</line>
+          <properties class="Trees.Level_Order_Traversal" method="LevelOrder">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Contests/SumofSquaresofSpecialElements.java</url>
+          <line>3</line>
+          <properties class="Contests.SumofSquaresofSpecialElements" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Contests/Count_Complete_Subarrays_in_an_Array.java</url>
+          <line>4</line>
+          <properties class="Contests.Count_Complete_Subarrays_in_an_Array" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LinkedList/Questions/Insert_Greatest_Common_Divisors_in_Linked_List.java</url>
+          <line>6</line>
+          <properties class="LinkedList.Questions.Insert_Greatest_Common_Divisors_in_Linked_List" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>
           <line>100</line>
@@ -1547,9 +1687,18 @@
           <line>5</line>
           <option name="timeStamp" value="160" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees/Client.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="22" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="172" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
