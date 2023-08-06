@@ -4,34 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="Add Two strings leetcode">
-      <change afterPath="$PROJECT_DIR$/src/Coding_Blocks_Assignment/Dequeue_efficient_queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contests/Account_Balance_After_Rounded_Purchase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contests/Count_Complete_Subarrays_in_an_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contests/MinimumIndexofaValidSplit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contests/Number_of_Employees_Who_Met_the_Target.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contests/SumofSquaresofSpecialElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Questions/Insert_Greatest_Common_Divisors_in_Linked_List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Questions/Intersection_of_ll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Questions/Kth_element_from_last_in_linked_list.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Questions/RemoveLinkedListElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Questions/Sum_of_two_Linked_Lists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Questions/Triplet_from_three_linked_lists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STACK/Questions/FindtheHighestAltitude.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/Average_of_Levels_in_Binary_Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/Binary_Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/Diameter_of_tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/Level_Order_Traversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/Search_in_Binary_Tree.java" afterDir="false" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="5-August-Contest-questions">
+      <change afterPath="$PROJECT_DIR$/src/Contests/Faulty_Keyboard.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/Cycle_Removal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/Cycle_Removal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/Cyclic_Linked_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/Cyclic_Linked_List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/Questions/LLOddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/Questions/LLOddEven.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +48,7 @@
       <recent name="LinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Insert_Greatest_Common_Divisors_in_Linked_List">
+  <component name="RunManager" selected="Application.Faulty_Keyboard">
     <configuration name="Account_Balance_After_Rounded_Purchase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Contests.Account_Balance_After_Rounded_Purchase" />
       <module name="JAVA_QUESTIONS" />
@@ -100,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Insert_Greatest_Common_Divisors_in_Linked_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.Questions.Insert_Greatest_Common_Divisors_in_Linked_List" />
+    <configuration name="Faulty_Keyboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contests.Faulty_Keyboard" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList.Questions.*" />
+          <option name="PATTERN" value="Contests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Level_Order" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Trees.Level_Order" />
+    <configuration name="Insert_Greatest_Common_Divisors_in_Linked_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.Questions.Insert_Greatest_Common_Divisors_in_Linked_List" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Trees.*" />
+          <option name="PATTERN" value="LinkedList.Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Faulty_Keyboard" />
         <item itemvalue="Application.Insert_Greatest_Common_Divisors_in_Linked_List" />
         <item itemvalue="Application.Account_Balance_After_Rounded_Purchase" />
         <item itemvalue="Application.Count_Complete_Subarrays_in_an_Array" />
         <item itemvalue="Application.Level_Order_Traversal" />
-        <item itemvalue="Application.Level_Order" />
       </list>
     </recent_temporary>
   </component>
@@ -180,13 +155,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662633220624</updated>
-    </task>
-    <task id="LOCAL-00011" summary="JAVA QUESTION">
-      <created>1676215788123</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1676215788123</updated>
     </task>
     <task id="LOCAL-00012" summary="JAVA QUESTION">
       <created>1676222261279</created>
@@ -524,7 +492,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688593198001</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="5-August-Contest-questions">
+      <created>1691254816716</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1691254816717</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -539,7 +514,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Permutations" />
     <MESSAGE value="JAVA QUESTION" />
     <MESSAGE value="Target Sum" />
     <MESSAGE value="VIVEK LOVES ARRAY" />
@@ -564,7 +538,8 @@
     <MESSAGE value="2 july contest question" />
     <MESSAGE value="SlidingWindowMaximum(Stack question)" />
     <MESSAGE value="Add Two strings leetcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Two strings leetcode" />
+    <MESSAGE value="5-August-Contest-questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="5-August-Contest-questions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
