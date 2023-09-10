@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="6-August-Contest-questions">
-      <change afterPath="$PROJECT_DIR$/src/Contests/Check_if_Strings_Can_be_Made_Equal_7021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contests/Count_Pairs_Whose_Sum_is_Less_than_Target.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contests/Furthest_Point_From_Origin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contests/Make_String_a_Subsequence_Using_Cyclic_Increments.java" afterDir="false" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="2-September-Contest-questions">
+      <change afterPath="$PROJECT_DIR$/src/Contests/Check_if_Strings_Can_be_Made_Equal_7005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rivision_Recursion/Path/Generate_Paranthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trees_Revision/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trees_Revision/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,33 @@
       <recent name="LinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Check_if_Strings_Can_be_Made_Equal_7021">
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trees_Revision.BinaryTree" />
+      <module name="JAVA_QUESTIONS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Trees_Revision.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Check_if_Strings_Can_be_Made_Equal_7005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contests.Check_if_Strings_Can_be_Made_Equal_7005" />
+      <module name="JAVA_QUESTIONS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Contests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Check_if_Strings_Can_be_Made_Equal_7021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Contests.Check_if_Strings_Can_be_Made_Equal_7021" />
       <module name="JAVA_QUESTIONS" />
@@ -65,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Coin_Toss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rivision_Recursion.Coin_Toss" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trees_Revision.Client" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Rivision_Recursion.*" />
+          <option name="PATTERN" value="Trees_Revision.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,38 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Count_Pairs_Whose_Sum_is_Less_than_Target" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Contests.Count_Pairs_Whose_Sum_is_Less_than_Target" />
+    <configuration name="Generate_Paranthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rivision_Recursion.Path.Generate_Paranthesis" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Contests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Furthest_Point_From_Origin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Contests.Furthest_Point_From_Origin" />
-      <module name="JAVA_QUESTIONS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Contests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Make_String_a_Subsequence_Using_Cyclic_Increments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Contests.Make_String_a_Subsequence_Using_Cyclic_Increments" />
-      <module name="JAVA_QUESTIONS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Contests.*" />
+          <option name="PATTERN" value="Rivision_Recursion.Path.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.BinaryTree" />
+        <item itemvalue="Application.Generate_Paranthesis" />
+        <item itemvalue="Application.Check_if_Strings_Can_be_Made_Equal_7005" />
         <item itemvalue="Application.Check_if_Strings_Can_be_Made_Equal_7021" />
-        <item itemvalue="Application.Coin_Toss" />
-        <item itemvalue="Application.Furthest_Point_From_Origin" />
-        <item itemvalue="Application.Make_String_a_Subsequence_Using_Cyclic_Increments" />
-        <item itemvalue="Application.Count_Pairs_Whose_Sum_is_Less_than_Target" />
       </list>
     </recent_temporary>
   </component>
@@ -158,13 +158,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662633220624</updated>
-    </task>
-    <task id="LOCAL-00013" summary="JAVA QUESTION">
-      <created>1676228334310</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1676228334310</updated>
     </task>
     <task id="LOCAL-00014" summary="JAVA QUESTION">
       <created>1676315035427</created>
@@ -502,7 +495,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691304798002</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="2-September-Contest-questions">
+      <created>1693669978810</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1693669978811</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -517,7 +517,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Target Sum" />
     <MESSAGE value="VIVEK LOVES ARRAY" />
     <MESSAGE value="JAVA Q UESTION" />
     <MESSAGE value="TIME COMPLEXITY" />
@@ -542,7 +541,8 @@
     <MESSAGE value="Add Two strings leetcode" />
     <MESSAGE value="5-August-Contest-questions" />
     <MESSAGE value="6-August-Contest-questions" />
-    <option name="LAST_COMMIT_MESSAGE" value="6-August-Contest-questions" />
+    <MESSAGE value="2-September-Contest-questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="2-September-Contest-questions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1545,6 +1545,33 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Rivision_Recursion/Path/Generate_Paranthesis.java</url>
+          <line>5</line>
+          <properties class="Rivision_Recursion.Path.Generate_Paranthesis">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Rivision_Recursion/Path/Generate_Paranthesis.java</url>
+          <line>10</line>
+          <properties class="Rivision_Recursion.Path.Generate_Paranthesis">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Trees_Revision/BinaryTree.java</url>
+          <line>44</line>
+          <properties class="Trees_Revision.BinaryTree" method="display">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="185" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>
