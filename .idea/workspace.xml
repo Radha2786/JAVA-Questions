@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="2-September-Contest-questions">
-      <change afterPath="$PROJECT_DIR$/src/Contests/Check_if_Strings_Can_be_Made_Equal_7005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rivision_Recursion/Path/Generate_Paranthesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees_Revision/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees_Revision/Client.java" afterDir="false" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="createBinarytree_Revision">
+      <change afterPath="$PROJECT_DIR$/src/Contests/SumofValuesatIndicesWithKSetBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exams/CP_class1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exams/CP_class2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exams/CP_class2B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFG/Perfect_Numbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trees_Revision/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trees_Revision/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trees_Revision/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trees_Revision/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +54,13 @@
       <recent name="LinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client">
-    <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Trees_Revision.BinaryTree" />
+  <component name="RunManager" selected="Application.SumofValuesatIndicesWithKSetBits">
+    <configuration name="CP_class1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exams.CP_class1" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Trees_Revision.*" />
+          <option name="PATTERN" value="Exams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,51 +68,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Check_if_Strings_Can_be_Made_Equal_7005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Contests.Check_if_Strings_Can_be_Made_Equal_7005" />
+    <configuration name="CP_class2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exams.CP_class2" />
+      <module name="JAVA_QUESTIONS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CP_class2B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exams.CP_class2B" />
+      <module name="JAVA_QUESTIONS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Perfect_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG.Perfect_Numbers" />
+      <module name="JAVA_QUESTIONS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GFG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumofValuesatIndicesWithKSetBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contests.SumofValuesatIndicesWithKSetBits" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Contests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Check_if_Strings_Can_be_Made_Equal_7021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Contests.Check_if_Strings_Can_be_Made_Equal_7021" />
-      <module name="JAVA_QUESTIONS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Contests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Trees_Revision.Client" />
-      <module name="JAVA_QUESTIONS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Trees_Revision.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Generate_Paranthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rivision_Recursion.Path.Generate_Paranthesis" />
-      <module name="JAVA_QUESTIONS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Rivision_Recursion.Path.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.BinaryTree" />
-        <item itemvalue="Application.Generate_Paranthesis" />
-        <item itemvalue="Application.Check_if_Strings_Can_be_Made_Equal_7005" />
-        <item itemvalue="Application.Check_if_Strings_Can_be_Made_Equal_7021" />
+        <item itemvalue="Application.SumofValuesatIndicesWithKSetBits" />
+        <item itemvalue="Application.CP_class2B" />
+        <item itemvalue="Application.CP_class2" />
+        <item itemvalue="Application.Perfect_Numbers" />
+        <item itemvalue="Application.CP_class1" />
       </list>
     </recent_temporary>
   </component>
@@ -158,13 +161,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662633220624</updated>
-    </task>
-    <task id="LOCAL-00014" summary="JAVA QUESTION">
-      <created>1676315035427</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1676315035427</updated>
     </task>
     <task id="LOCAL-00015" summary="JAVA QUESTION">
       <created>1676568626097</created>
@@ -502,7 +498,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693669978811</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="createBinarytree_Revision">
+      <created>1694342716506</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1694342716507</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -517,7 +520,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="VIVEK LOVES ARRAY" />
     <MESSAGE value="JAVA Q UESTION" />
     <MESSAGE value="TIME COMPLEXITY" />
     <MESSAGE value="Strings_Remove_Duplicates" />
@@ -542,7 +544,8 @@
     <MESSAGE value="5-August-Contest-questions" />
     <MESSAGE value="6-August-Contest-questions" />
     <MESSAGE value="2-September-Contest-questions" />
-    <option name="LAST_COMMIT_MESSAGE" value="2-September-Contest-questions" />
+    <MESSAGE value="createBinarytree_Revision" />
+    <option name="LAST_COMMIT_MESSAGE" value="createBinarytree_Revision" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1566,12 +1569,30 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Trees_Revision/BinaryTree.java</url>
-          <line>44</line>
-          <properties class="Trees_Revision.BinaryTree" method="display">
+          <line>87</line>
+          <properties class="Trees_Revision.BinaryTree" method="Inorder">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="185" />
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Exams/CP_class1.java</url>
+          <line>4</line>
+          <properties class="Exams.CP_class1" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Contests/SumofValuesatIndicesWithKSetBits.java</url>
+          <line>3</line>
+          <properties class="Contests.SumofValuesatIndicesWithKSetBits" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="188" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>
