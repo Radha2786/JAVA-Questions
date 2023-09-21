@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="createBinarytree_Revision">
-      <change afterPath="$PROJECT_DIR$/src/Contests/SumofValuesatIndicesWithKSetBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exams/CP_class1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exams/CP_class2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exams/CP_class2B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GFG/Perfect_Numbers.java" afterDir="false" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="17-Sep-Contest">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/Good_Kid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/Short_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/Target_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/question2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trees_Revision/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trees_Revision/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trees_Revision/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trees_Revision/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_QUESTIONS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_QUESTIONS.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -42,45 +42,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="LinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SumofValuesatIndicesWithKSetBits">
-    <configuration name="CP_class1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exams.CP_class1" />
-      <module name="JAVA_QUESTIONS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CP_class2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exams.CP_class2" />
-      <module name="JAVA_QUESTIONS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.question2">
     <configuration name="CP_class2B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exams.CP_class2B" />
       <module name="JAVA_QUESTIONS" />
@@ -94,12 +69,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Perfect_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GFG.Perfect_Numbers" />
+    <configuration name="Good_Kid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.Good_Kid" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GFG.*" />
+          <option name="PATTERN" value="Codeforces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Short_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.Short_Sort" />
+      <module name="JAVA_QUESTIONS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Codeforces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,6 +101,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Contests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="question2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.question2" />
+      <module name="JAVA_QUESTIONS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Codeforces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.question2" />
+        <item itemvalue="Application.Good_Kid" />
+        <item itemvalue="Application.Short_Sort" />
         <item itemvalue="Application.SumofValuesatIndicesWithKSetBits" />
         <item itemvalue="Application.CP_class2B" />
-        <item itemvalue="Application.CP_class2" />
-        <item itemvalue="Application.Perfect_Numbers" />
-        <item itemvalue="Application.CP_class1" />
       </list>
     </recent_temporary>
   </component>
@@ -161,13 +162,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662633220624</updated>
-    </task>
-    <task id="LOCAL-00015" summary="JAVA QUESTION">
-      <created>1676568626097</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1676568626097</updated>
     </task>
     <task id="LOCAL-00016" summary="JAVA QUESTION">
       <created>1676731211593</created>
@@ -505,7 +499,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694342716507</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="17-Sep-Contest">
+      <created>1694939305762</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1694939305763</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -520,7 +521,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="JAVA Q UESTION" />
     <MESSAGE value="TIME COMPLEXITY" />
     <MESSAGE value="Strings_Remove_Duplicates" />
     <MESSAGE value="Count_Items_Matching_a_Rule(leetcode)" />
@@ -545,7 +545,8 @@
     <MESSAGE value="6-August-Contest-questions" />
     <MESSAGE value="2-September-Contest-questions" />
     <MESSAGE value="createBinarytree_Revision" />
-    <option name="LAST_COMMIT_MESSAGE" value="createBinarytree_Revision" />
+    <MESSAGE value="17-Sep-Contest" />
+    <option name="LAST_COMMIT_MESSAGE" value="17-Sep-Contest" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
