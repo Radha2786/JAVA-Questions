@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="codeforces contest" />
+    <list default="true" id="03b2fc65-feeb-40ff-9b1f-c0c91ce76a64" name="Changes" comment="codeforces contest">
+      <change afterPath="$PROJECT_DIR$/src/Trees_Revision/LevelOrderBuildTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +48,10 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/MICROSOFT/OneDrive/Desktop/RADHA-JAVA-QUESTIONS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -54,7 +61,7 @@
       <recent name="LinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Min_Pair_Sum">
+  <component name="RunManager" selected="Application.LevelOrderBuildTree">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Trees_Revision.Client" />
       <module name="JAVA_QUESTIONS" />
@@ -68,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Good_Kid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.Good_Kid" />
+    <configuration name="LevelOrderBuildTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trees_Revision.LevelOrderBuildTree" />
       <module name="JAVA_QUESTIONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Codeforces.*" />
+          <option name="PATTERN" value="Trees_Revision.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LevelOrderBuildTree" />
         <item itemvalue="Application.Min_Pair_Sum" />
         <item itemvalue="Application.Payment" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.question2" />
-        <item itemvalue="Application.Good_Kid" />
       </list>
     </recent_temporary>
   </component>
@@ -162,6 +169,8 @@
       <option name="presentableId" value="Default" />
       <updated>1662633220624</updated>
       <workItem from="1697735553233" duration="263000" />
+      <workItem from="1697821655142" duration="957000" />
+      <workItem from="1697866200542" duration="5292000" />
     </task>
     <task id="LOCAL-00017" summary="JAVA QUESTION">
       <created>1676755902278</created>
@@ -1474,15 +1483,6 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Trees/Level_Order_Traversal.java</url>
-          <line>8</line>
-          <properties class="Trees.Level_Order_Traversal" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="173" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Trees/Level_Order_Traversal.java</url>
           <line>81</line>
           <properties class="Trees.Level_Order_Traversal" method="LevelOrder">
             <option name="EMULATED" value="true" />
@@ -1597,6 +1597,33 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Trees_Revision/LevelOrderBuildTree.java</url>
+          <line>60</line>
+          <properties class="Trees_Revision.LevelOrderBuildTree" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Trees_Revision/LevelOrderBuildTree.java</url>
+          <line>22</line>
+          <properties class="Trees_Revision.LevelOrderBuildTree" method="createlevelorder">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Trees_Revision/LevelOrderBuildTree.java</url>
+          <line>48</line>
+          <properties class="Trees_Revision.LevelOrderBuildTree" method="preorder">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="192" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Two_D/Boolean_Matrix.java</url>
